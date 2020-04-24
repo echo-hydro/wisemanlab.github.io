@@ -1368,7 +1368,90 @@ in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
   links:
     - name: Jackson lab @ Australian National University
       url: http://jacksonlab.wordpress.com/
-    
+
+- citation: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
+electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010."
+  date: '201002'
+  image: '/static/img/pub/lang_ng_2010.jpg'
+  pmid: '20499387'
+  pmcid: 'PMC2974833'
+  pdf: '/static/pdf/publications/lang_ng_2010.pdf'
+  links:
+    - name: Ringer Website @ Lawrence Berkeley National Lab
+      url: http://bl831.als.lbl.gov/ringer/
+    - name: Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer
+      url: http://phenix-online.org
+    - name: F1000 evaluation
+      url: http://f1000.com/prime/718498329
+    - name: 'Protein Science: Peripatetic proteins'
+      url: http://onlinelibrary.wiley.com/doi/10.1002/pro.422/abstract
+    - name: 'QB3: QB3 structural biologists make algorithm available on the web'
+      url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
+
+- citation: "Maghzal N&#42;, Vogt E&#42;, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
+movements through intracellular signaling. *Journal of Cell Biology*. 2010."
+  date: '201001'
+  image: '/static/img/pub/fagotto_2010.jpg'
+  pmid: '20974811'
+  pmcid: 'PMC3003323'
+  pdf: '/static/pdf/publications/fagotto_2010.pdf'
+  links:
+    - name: Fagotto lab @ McGill University
+      url: http://biology.mcgill.ca/faculty/fagotto/
+
+- citation: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline
+isomerase essential for catalysis. *Nature*. 2009."
+  date: '200901'
+  image: '/static/img/pub/fraser_2009.jpg'
+  pmid: '19956261'
+  pmcid: 'PMC2805857'
+  pdf: '/static/pdf/publications/fraser_2009.pdf'
+  pdbs:
+    - 3K0M
+    - 3K0N
+    - 3K0O
+    - 3K0P
+    - 3K0Q
+    - 3K0R
+  links:
+    - name: F1000 evaluation
+      url: http://f1000.com/1309961
+    - name: "Nature: Editor's Summary"
+      url: http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html
+    - name: 'QB3: QB3 scientists pin down shape-changing enzyme'
+      url: http://qb3.org/news/archive/2009/qb3-scientists-pin-down-shape-changing-enzyme
+    - name: 'Chemical & Engineering News: Crystallographic Noise Characterizes Enzyme'
+      url: http://pubs.acs.org/isubscribe/journals/cen/87/i49/html/8749scic4.html
+    - name: 'Conformational Flux: Alternate Structures and Catalysis in Cyclophilin'
+      url: http://conflux.mwclarkson.com/2009/12/alternate-structures-and-catalysis-in-cyclophilin/
+
+- citation: "**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest
+Damage? *Current Opinion in Microbiology.* 2007."
+  date: '200702'
+  image: '/static/img/pub/fraser_2007_1.jpg'
+  pmid: '17765600'
+  pdf: '/static/pdf/publications/fraser_2007_1.pdf'
+  links:
+    - name: Davidson lab @ University of Toronto
+      url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
+
+- citation: "**Fraser JS&#42;**, Merlie Jr. JP&#42;, Echols N&#42;, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
+An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
+*Molecular Microbiology*. 2007."
+  date: '200701'
+  image: '/static/img/pub/fraser_2007_2.jpg'
+  pmid: '17573816'
+  pmcid: 'PMC1974792'
+  pdf: '/static/pdf/publications/fraser_2007_2.pdf'
+  pdbs:
+    - 2GKG
+    - 2I6F
+    - 2NT4
+    - 2NT3
+  links:
+    - name: Zusman lab @ UC Berkeley
+      url: https://mcb.berkeley.edu/labs/zusman/
+
 - citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
   date: '2011'
   image: '/static/img/pub/2011GenereuxChemBiol.jpg'
