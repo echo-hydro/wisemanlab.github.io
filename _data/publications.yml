@@ -1452,12 +1452,9 @@ An atypical receiver domain controls the dynamic polar localization of the Myxoc
     - name: Zusman lab @ UC Berkeley
       url: https://mcb.berkeley.edu/labs/zusman/
 
-- citation: "**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit.
-*Journal of Molecular Biology*. 2006."
-  date: '200601'
+- citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
+  date: '2011'
   image: '/static/img/pub/fraser_2006.jpg'
-  pmid: '16631788'
+  pmid: '21338912'
   pdf: '/static/pdf/publications/fraser_2006.pdf'
-  links:
-    - name: Davidson lab @ University of Toronto
-      url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
+  
