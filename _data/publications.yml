@@ -1389,18 +1389,17 @@ electron-density sampling reveals widespread conformational polymorphism in prot
       url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
 
 - citation: “**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Wu, C; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-Independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, Cell Reports, 4, 1279-1292."
-  date: '201001'
-  image: '/static/img/pub/fagotto_2010.jpg'
-  pmid: '20974811'
-  pmcid: 'PMC3003323'
-  pdf: '/static/pdf/publications/fagotto_2010.pdf'
+  date: '2013’
+  image: '/static/img/pub/2013ShoulderCellReports.jpg'
+  pmid: '23583182'
+  pdf: '/static/pdf/publications/2013ShouldersCellRep.pdf’
   links:
-    - name: Ringer Website @ Lawrence Berkeley National Lab
-      url: http://bl831.als.lbl.gov/ringer/
-    - name: Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer
-      url: http://phenix-online.org
-    - name: F1000 evaluation
-      url: http://f1000.com/prime/718498329
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+    - name: Su Lab @ Scripps Research
+      url: http://www.scripps.edu/su/
+    - name: Yates Lab @ Scripps Research
+      url: http://fields.scripps.edu/yates/wp/
     
 - citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
   date: '2011'
