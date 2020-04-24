@@ -1369,11 +1369,10 @@ in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
     - name: Jackson lab @ Australian National University
       url: http://jacksonlab.wordpress.com/
 
-- citation: "Shoulders, MD; Ryno, LM; Genereux, JC; Moresco, JJ; Tu, PG; Yates, III, JR; Su, AI; Kelly, JW; Wiseman, RL (2013) Stress-independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, Cell Reports, 3, 1279-1292"
+- citation: “Shoulders MD, Ryno LM, Genereux JC, Moresco, JJ, Tu PG, Yates III JR, Su AI, Kelly JW, Wiseman RL (2013) Stress-Independent Activation of XBP1s and or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, *Cell Reports* 3, 1279-1292”
   date: '2011’
   image: '/static/img/pub/2011GenereuxChemBiol.jpg'
   pmid: '20499387'
-  pmcid: 'PMC2974833'
   pdf: '/static/pdf/publications/2013ShouldersCellRep.pdf'
   links:
     - name: Kelly Lab @ Scripps Research
