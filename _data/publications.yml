@@ -1388,7 +1388,7 @@ electron-density sampling reveals widespread conformational polymorphism in prot
     - name: 'QB3: QB3 structural biologists make algorithm available on the web'
       url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
 
-- citation: “**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Wu, C; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-Independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER| Proteostasis Environments, Cell Reports, 4, 1279-1292."
+- citation: “**Shoulders  MD, Ryno LM, Genereux JC**, Moresco JJ, Tu PG, Wu C, Yates III JR, Su AI, Kelly JW, **Wiseman RL** (2013) Stress-Independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER| Proteostasis Environments, *Cell Reports*, 4, 1279-1292."
   date: '2013’
   image: '/static/img/pub/2013ShoulderCellReports.jpg'
   pmid: '23583182'
