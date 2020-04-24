@@ -1435,22 +1435,14 @@ Damage? *Current Opinion in Microbiology.* 2007."
     - name: Davidson lab @ University of Toronto
       url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
 
-- citation: "**Fraser JS&#42;**, Merlie Jr. JP&#42;, Echols N&#42;, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
-An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
-*Molecular Microbiology*. 2007."
-  date: '200701'
-  image: '/static/img/pub/fraser_2007_2.jpg'
-  pmid: '17573816'
-  pmcid: 'PMC1974792'
-  pdf: '/static/pdf/publications/fraser_2007_2.pdf'
-  pdbs:
-    - 2GKG
-    - 2I6F
-    - 2NT4
-    - 2NT3
+- citation: “**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, *Cell Reports*, 3, 1279-1292“
+  date: ‘2013’
+  image: '/static/img/pub/2013ShoulderCellReports.jpg'
+  pmid: '23583182 '
+  pdf: '/static/pdf/publications/2013ShouldersCellRep.pdf'
   links:
-    - name: Zusman lab @ UC Berkeley
-      url: https://mcb.berkeley.edu/labs/zusman/
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
 - citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
   date: '2011'
