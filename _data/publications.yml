@@ -1399,43 +1399,26 @@ movements through intracellular signaling. *Journal of Cell Biology*. 2010."
     - name: Fagotto lab @ McGill University
       url: http://biology.mcgill.ca/faculty/fagotto/
 
-- citation: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline
-isomerase essential for catalysis. *Nature*. 2009."
+- citation: "**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding authors"
   date: '200901'
-  image: '/static/img/pub/fraser_2009.jpg'
+  image: '/static/img/pub/2013RynoCOCB.jpg'
   pmid: '19956261'
   pmcid: 'PMC2805857'
-  pdf: '/static/pdf/publications/fraser_2009.pdf'
-  pdbs:
-    - 3K0M
-    - 3K0N
-    - 3K0O
-    - 3K0P
-    - 3K0Q
-    - 3K0R
+  pdf: '/static/pdf/publications/2013RynoCurrOpChemBiol'
   links:
-    - name: F1000 evaluation
-      url: http://f1000.com/1309961
-    - name: "Nature: Editor's Summary"
-      url: http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html
-    - name: 'QB3: QB3 scientists pin down shape-changing enzyme'
-      url: http://qb3.org/news/archive/2009/qb3-scientists-pin-down-shape-changing-enzyme
-    - name: 'Chemical & Engineering News: Crystallographic Noise Characterizes Enzyme'
-      url: http://pubs.acs.org/isubscribe/journals/cen/87/i49/html/8749scic4.html
-    - name: 'Conformational Flux: Alternate Structures and Catalysis in Cyclophilin'
-      url: http://conflux.mwclarkson.com/2009/12/alternate-structures-and-catalysis-in-cyclophilin/
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest
-Damage? *Current Opinion in Microbiology.* 2007."
-  date: '200702'
-  image: '/static/img/pub/fraser_2007_1.jpg'
+- citation: "**Shoulders, MD; Ryno, LM; Cooley, CB**; Kelly, JW; **Wiseman, RL** (2013) Broadly Applicable Methodology for the Rapid and Dosable Small Molecule-Mediated Regulation of Transcription Factors in Human Cells, *J. Am. Chem. Soc.*, 135, 8129-8135"
+  date: '2013'
+  image: '/static/img/pub/2013ShouldersJACS.jpg'
   pmid: '17765600'
-  pdf: '/static/pdf/publications/fraser_2007_1.pdf'
+  pdf: '/static/pdf/publications/2013ShouldersJACS.pdf'
   links:
-    - name: Davidson lab @ University of Toronto
-      url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: “**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, *Cell Reports*, 3, 1279-1292“
+- citation: "**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, *Cell Reports*, 3, 1279-1292"
   date: ‘2013’
   image: '/static/img/pub/2013ShoulderCellReports.jpg'
   pmid: '23583182 '
@@ -1449,4 +1432,3 @@ Damage? *Current Opinion in Microbiology.* 2007."
   image: '/static/img/pub/2011GenereuxChemBiol.jpg'
   pmid: '21338912'
   pdf: '/static/pdf/publications/2011GenereuxChemBiol.pdf'
-  
