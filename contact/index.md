@@ -1,10 +1,10 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Wiseman Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Wiseman Lab
 
 
 <div class="row">
@@ -18,22 +18,23 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>James Fraser</h4>
+  <h4>R. Luke Wiseman</h4>
   Associate Professor  <br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  California Institute of Quantitative Biosciences (QB3)  <br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
+  Department of Molecular Medicine  <br>
+  Scripps Research, La Jolla, CA  <br>
+  email: wiseman (at) scripps.edu <br>
+  tel: 858 784 8820
 
 </div>
 
 <div class="col-md-4">
 
-  <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Dr. James Fraser and  others<br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
-  Phone: 415 476-1947   <br>
+  <h4> Karen Hughes </h4>
+  Administrative Assistant <br>
+  Department of Molecular Medicine <br>
+  Scripps Research, La Jolla, CA  <br>
+  Email:  khughes (at) scripps.edu  <br>
+  Phone: 858 784 7917   <br>
 
 </div>
 
