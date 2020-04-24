@@ -1388,26 +1388,21 @@ electron-density sampling reveals widespread conformational polymorphism in prot
     - name: 'QB3: QB3 structural biologists make algorithm available on the web'
       url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
 
-- citation: "Maghzal N&#42;, Vogt E&#42;, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
-movements through intracellular signaling. *Journal of Cell Biology*. 2010."
+- citation: “**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Wu, C; Yates, III, JR; Su, AI; Kelly, JW; 
+**Wiseman, RL** (2013) Stress-Independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER 
+Proteostasis Environments, Cell Reports, 4, 1279-1292."
   date: '201001'
   image: '/static/img/pub/fagotto_2010.jpg'
   pmid: '20974811'
   pmcid: 'PMC3003323'
   pdf: '/static/pdf/publications/fagotto_2010.pdf'
   links:
-    - name: Fagotto lab @ McGill University
-      url: http://biology.mcgill.ca/faculty/fagotto/
-
-- citation: “**Wiseman, RL**; Kelly, JW (2011) Cell biology: Phosphatase inhibition delays translational recovery, Science, 332, 
-44-45. co-corresponding authors"
-  date: '2011’
-  image: '/static/img/pub/2013ShouldersCellReports.jpg'
-  pmid: '21454777'
-  pdf: '/static/pdf/publications/2011WisemanScience.pdf'
-  links:
-    - name: Kelly lab @ Scripps Research
-      url: https://www.scripps.edu/kelly/
+    - name: Ringer Website @ Lawrence Berkeley National Lab
+      url: http://bl831.als.lbl.gov/ringer/
+    - name: Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer
+      url: http://phenix-online.org
+    - name: F1000 evaluation
+      url: http://f1000.com/prime/718498329
     
 - citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
   date: '2011'
