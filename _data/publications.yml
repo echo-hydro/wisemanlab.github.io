@@ -1288,122 +1288,64 @@ Protein Alternative Conformations. *Methods in Enzymology*. 2013."
     - name: 'Molecular Cell: Celebrating 15 years of New Connections'
       url: http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2
 
-- citation: "Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two
-X-ray crystal structures. *Journal of Biomolecular NMR*. 2012."
+- citation: "**Chen, JJ; Genereux, JC; Qu, S**; Hulleman, JD; **Shoulders, MD; Wiseman, RL** (2014) Increasing ER Quality Control Stringency Through ATF6 Activation Reduces Secretion and Extracellular Aggregation of Destabilized Variants of an Amyloidogenic Protein, *Chemistry & Biology*, 21, 1564-1574."
   date: '201203'
-  image: '/static/img/pub/vila_2012.jpg'
-  pmid: '22945426'
-  pmcid: 'PMC3471536'
-  pdf: '/static/pdf/publications/vila_2012.pdf'
-  links:
-    - name: CheShift-2 Server @ Universidad Nacional de San Luis
-      url: http://cheshift.com/
-    - name: Dyson lab @ Scripps Research
-      url: http://www.scripps.edu/dyson/
-    - name: Scheraga lab @ Cornell University
-      url: http://www.chem.cornell.edu/has5/
+  image: '/static/img/pub/2014ChenChemBiol.jpg'
+  pmid: '25444553'
+  pdf: '/static/pdf/publications/2014ChenChemBiol'
 
-- citation: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J,
-Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012."
+- citation: "**Cooley, CB; Ryno, LM; Plate, L**; Morgan, GJ; Hulleman, JD; Kelly, JW; **Wiseman RL** (2014) Unfolded Protein Response Activation Reduces Secretion and Extracellular Aggregation of Amyloidogenic Immunoglobulin Light Chains, *Proc. Natl. Acad. Sci. USA*, 111, 13046-13051."
   date: '201202'
-  image: '/static/img/pub/beltrao_2012.png'
-  pmid: '22817900'
-  pmcid: 'PMC3404735'
-  pdf: '/static/pdf/publications/beltrao_2012.pdf'
+  image: '/static/img/pub/2014Cooley.jpg'
+  pmid: '25157167'
+  pdf: '/static/pdf/publications/2014CooleyPNAS'
   links:
-    - name: PTMfunc database
-      url: http://ptmfunc.com/
-    - name: Krogan lab @ UC San Francisco
-      url: http://kroganlab.ucsf.edu/
-    - name: 'Nature Methods: Making PTMs a priority'
-      url: http://www.nature.com/nmeth/journal/v9/n9/full/nmeth.2153.html
-    - name: "Pedro's Public Ramblings: Evolution and Function of Post-translational Modifications"
-      url: http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T.
-Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *PNAS*. 2012."
-  date: '201201'
-  image: '/static/img/pub/kapp_2012.jpg'
-  pmid: '22403064'
-  pmcid: 'PMC3325720'
-  pdf: '/static/pdf/publications/kapp_2012.pdf'
-  pdbs:
-    - 3QBV
+- citation: "Rappley, I; Monteiro, C; Novais, M; Baranczak, A; Solis, G; **Wiseman, RL**; Helmke, S; Maurer, MS; Coelho, T; Powers, ET; Kelly, JW (2014) Quantification of Transthyretin Kinetic Stability in Human Plasma Using Subunit Exchange, *Biochemistry*, 53, 1993-2006."
+  date: '2014'
+  image: '/static/img/pub/2014RappelyBiochemistry.jpg'
+  pmid: '24661308 '
+  pdf: '/static/pdf/publications/2014RappleyBiochemistry'
   links:
-    - name: Kortemme lab @ UC San Francisco
-      url: http://kortemmelab.ucsf.edu/
-    - name: 'PNAS: Designing orthogonal signaling pathways: how to fit in with the surroundings.'
-      url: https://doi.org/10.1073/pnas.1202624109
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein
-conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011."
-  date: '201102'
-  image: '/static/img/pub/fraser_2011_1.jpg'
-  pmid: '21918110'
-  pmcid: 'PMC3182744'
-  pdf: '/static/pdf/publications/fraser_2011_1.pdf'
-  pdbs:
-    - 3TGP
+- citation: "**Rainbolt, TK; Saunders, JM; Wiseman RL** (2014) Stress-Responsive Adaptation of Mitochondria Through the ER Unfolded Protein Response. *Trends in Endocrinology and Metabolism*, 25, 528-537."
+  date: '2014'
+  image: '/static/img/pub/2014RainboltTEM.jpg'
+  pmid: '25048297'
+  pdf: '/static/pdf/publications/2014RainboltTrendsEndoMetab.pdf'
+
+- citation: "**Ryno, LM; Genereux, JC**; Naito, T; Morimoto, RI; Powers, ET; **Shoulders, MD; Wiseman, RL** (2014) Characterizing the Altered Cellular Proteome Induced by Stress Independent Activation of Heat Shock Factor 1, *ACS Chemical Biology*, 9, 1273-1283."
+  date: '2014'
+  image: '/static/img/pub/2014RynoACSChemBio.jpg'
+  pmid: '24689980 '
+  pdf: '/static/pdf/publications/2014RynoACSChemBiol.pdf'
   links:
-    - name: qFIT server @ SLAC
-      url: http://smb.slac.stanford.edu/qFitServer/qFit.jsp
-    - name: F1000 evaluation
-      url: http://f1000.com/13294061
-    - name: 'SBKB: Not so cool'
-      url: http://www.sbkb.org/update/2011/12/full/sbkb.2011.54.html
-    - name: 'PNAS: In this issue'
-      url: http://www.pnas.org/content/108/39/16135.full#sec-4
-    - name: 'SLAC: Proteins better analyzed at room temperature'
-      url: https://news.slac.stanford.edu/features/proteins-better-analyzed-room-temperature-report-finds
-    - name: 'PLoS - Computational Biology: Postcard based on a talk just prior to publication'
-      url: http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002000#s3
+    - name: Morimoto lab @ Northwestern University
+      url: http://groups.molbiosci.northwestern.edu/morimoto/
 
-- citation: "**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism
-in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
-  date: '201101'
-  image: '/static/img/pub/fraser_2011_2.jpg'
-  pmid: '21190057'
-  pmcid: 'PMC3092063'
-  pdf: '/static/pdf/publications/fraser_2011_2.pdf'
+- citation: "**Rainbolt, TK; Atanassova, N; Genereux, JC; Wiseman, RL** (2013) Stress-Regulated Translational Attenuation Adapts Mitochondrial Protein Import Through Tim17A Degradation, *Cell Metabolism*, 18, 908-919."
+  date: '2013'
+  image: '/static/img/pub/2013RainboltCellMet.jpg'
+  pmid: '24315374 '
+  pdf: '/static/pdf/publications/2013RainboltCellMetab.pdf'
+
+- citation: "Leung, A; Nah, SK.; Reid, W; Ebata, A; Koch, CM; Monti, S; **Genereux, JC; Wiseman, RL**; Wolozin, B; Connors, LH; Berk, JL; Seldin, DC; Mostoslavsky, G; Kotton, DN; Murphy, GJ (2013) Induced Pluripotent Stem Cell Modeling of Multisystemic, Hereditary Transthyretin Amyloidosis, *Stem Cell Reports*, 1, 451-463."
+  date: '2013'
+  image: '/static/img/pub/2013LeungStemCellReports.jpg'
+  pmid: '24286032 '
+  pdf: '/static/pdf/publications/2013LeungStemCellRep.pdf'
   links:
-    - name: Jackson lab @ Australian National University
-      url: http://jacksonlab.wordpress.com/
+    - name: Murphy Lab @ Boston University
+      url: http://murphylaboratory.com/
 
-- citation: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
-electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010."
-  date: '201002'
-  image: '/static/img/pub/lang_ng_2010.jpg'
-  pmid: '20499387'
-  pmcid: 'PMC2974833'
-  pdf: '/static/pdf/publications/lang_ng_2010.pdf'
-  links:
-    - name: Ringer Website @ Lawrence Berkeley National Lab
-      url: http://bl831.als.lbl.gov/ringer/
-    - name: Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer
-      url: http://phenix-online.org
-    - name: F1000 evaluation
-      url: http://f1000.com/prime/718498329
-    - name: 'Protein Science: Peripatetic proteins'
-      url: http://onlinelibrary.wiley.com/doi/10.1002/pro.422/abstract
-    - name: 'QB3: QB3 structural biologists make algorithm available on the web'
-      url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
-
-- citation: "Maghzal N&#42;, Vogt E&#42;, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
-movements through intracellular signaling. *Journal of Cell Biology*. 2010."
-  date: '201001'
-  image: '/static/img/pub/fagotto_2010.jpg'
-  pmid: '20974811'
-  pmcid: 'PMC3003323'
-  pdf: '/static/pdf/publications/fagotto_2010.pdf'
-  links:
-    - name: Fagotto lab @ McGill University
-      url: http://biology.mcgill.ca/faculty/fagotto/
-
-- citation: “**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding authors"
+- citation: “**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding author"
   date: '200901'
   image: '/static/img/pub/2013RynoCOCB.jpg'
-  pmid: '19956261'
-  pmcid: 'PMC2805857'
+  pmid: '23647985'
   pdf: '/static/pdf/publications/2013RynoCurrOpChemBiol'
   links:
     - name: Kelly Lab @ Scripps Research
@@ -1412,7 +1354,7 @@ movements through intracellular signaling. *Journal of Cell Biology*. 2010."
 - citation: "**Shoulders, MD; Ryno, LM; Cooley, CB**; Kelly, JW; **Wiseman, RL** (2013) Broadly Applicable Methodology for the Rapid and Dosable Small Molecule-Mediated Regulation of Transcription Factors in Human Cells, *J. Am. Chem. Soc.*, 135, 8129-8135"
   date: '2013'
   image: '/static/img/pub/2013ShouldersJACS.jpg'
-  pmid: '17765600'
+  pmid: '23682758 '
   pdf: '/static/pdf/publications/2013ShouldersJACS.pdf'
   links:
     - name: Kelly Lab @ Scripps Research
