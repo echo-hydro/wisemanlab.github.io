@@ -1,77 +1,81 @@
-- name: Alexander Wolff, PhD
-  position: Graduate Student
+- name: Cristina Puchades, PhD
+  position: Graduate student (AHA fellow, joint with Lander lab)
   startdate: 2015
-  enddate: 2020
-  current: Medical Writer - Health Interactions
+  enddate: 2019
+  current: Postdoctoral Fellow - Cheng lab @ UCSF
 
-- name: Saulo de Oliveira, PhD
-  position: Postdoctoral Fellow
+- name: Lauren Cech
+  position: Post-bac
   startdate: 2018
   enddate: 2019
-  current: Bioinformatics Scientist - Frontier Medicines
+  current: Graduate student @ UCSF
 
-- name: Benjamin Barad, PhD
-  position: Graduate Student (ARCS Fellow)
-  startdate: 2014
-  enddate: 2019
-  current: Postdoctoral Fellow - Grotjahn Lab @ Scripps
+- name: Lars Plate, PhD
+  position: Postdoctoral fellow (LLS fellow)
+  startdate: 2013
+  enddate: 2017
+  current: Assistant Professor @ Vanderbilt
+  lab: https://my.vanderbilt.edu/plateresearch/
 
-- name: Mario Rodriguez
-  position: SRTP Undergraduate
-  startdate: 2019
-  enddate: 2019
-  current: Undergraduate @ UC Irvine
+- name: Kai-Chun Chen
+  position: Postdoctoral fellow
+  startdate: 2015
+  enddate: 2017
+  current: Scientist @ Encodia
 
-- name: Brandi Hudson, PhD
-  position: Postdoctoral Fellow
-  startdate: 2016
-  enddate: 2018
-  current: Scientist - Relay Therapeutics
+- name: Song Qu, PhD
+  position: Graduate student
+  startdate: 2011
+  enddate: 2016
+  current: IP Portfolio Management and Licensing Associate @ Cedars-Sinai
 
-- name: Rahel Woldeyes, PhD
-  position: Graduate Student (NSF Fellow)
+- name: Jaclyn Saunders , PhD
+  position: Graduate student
   startdate: 2012
   enddate: 2017
-  current: Postdoctoral Fellow - Chiu Lab @ SLAC/Stanford
+  current: Scientist @ Semba Biosciences
 
-- name: Daniel Keedy, PhD
-  position: Postdoctoral Fellow (A.P. Giannini Foundation)
-  startdate: 2012
-  enddate: 2017
-  current: Assistant Professor - CUNY
-  lab: https://keedylab.org/
+- name: T. Kelly Rainbolt, PhD
+  position: Graduate student
+  startdate: 2010
+  enddate: 2016
+  current: Postdoctoral fellow - Frydman lab @ Stanford
 
-- name: David Mavor, PhD
-  position: Graduate Student
-  startdate: 2012
-  enddate: 2017
-  current: Postdoctoral Fellow - Bolon Lab @ UMass Medical School
+- name: John Chen, PhD
+  position: Graduate student
+  startdate: 2013
+  enddate: 2015
+  current: Postdoctoral Fellow - Kampmann lab @ UCSF
 
-- name: Tomas Lazarou
-  position: Visiting Canadian Technician
-  startdate: Spring 2016
-  enddate: Winter 2016
-  current: Graduate Student - Buccella Lab @ NYU
-
-- name: Andrew Van Benschoten, PhD
-  position: Graduate Student
+- name: Christina Cooley, PhD
+  position: Postdoctoral fellow (NIH fellow)
   startdate: 2011
   enddate: 2015
-  current: Senior Data Scientist - Oracle (now Senior Manager, Data Science @Ovative Group)
+  current: Assistant professor @ Trinity
+  lab: https://inside.trinity.edu/directory/ccooley
 
-- name: Lillian Kenner
-  position: Specialist
-  startdate: 2011
-  enddate: 2014
-  current: Graduate Student - Frost Lab @ UCSF (now Postdoctoral Fellow - Dueber Lab @ Genentech)
+- name: Joseph C. Genereux, PhD
+  position: Postdoctoral fellow (AHA fellow)
+  startdate: 2010
+  enddate: 2015
+  current: Assistant professor @ UC-Riverside
+  lab: https://genereuxlab.ucr.edu/
 
-- name: Khanh Vuu
-  position: Assistant Specialist
-  startdate: 2012
-  enddate: 2013
-  current: Research Associate - JBEI/LBL
+- name: Estella Gustilo, PhD
+  position: Postdoctoral fellow
+  startdate: 2009
+  enddate: 2012
+  current: Adjunct assistant professor @ CUNY
 
-- name: Avi Samelson, PhD
-  position: Technician
-  enddate: Summer 2011
-  current: Graduate Student - Marqusee Lab @ UC Berkeley (now Postdoctoral Fellow - Kampmann Lab @ UCSF)
+- name: Neli Atanassova, PhD
+  position: Postdoctoral Fellow
+  startdate: 2009
+  enddate: 2012
+  current: Project manager @ AstraZeneca
+
+- name: Matt Shoulders, PhD
+  position: Postdoctoral fellow (ACS fellow)
+  startdate: 2010
+  enddate: 2012
+  current: Associate professor @ MIT
+  lab: https://shoulderslab.mit.edu/
