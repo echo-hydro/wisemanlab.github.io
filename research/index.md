@@ -8,6 +8,7 @@ group: research
 
 # The Wiseman lab is focused on defining the pathologic and therapeutic implications of stress-responsive signaling pathways in diverse diseases:
 
+
 ## What are stress-responsive signaling pathways?
 
 X-ray crystallography is traditionally used to define a single, static macromolecular structure. However, these “structures” are based on fitting atomic models into electron density maps that portray an ensemble average of the billions and billions of molecules in the crystal. By mining these maps using the electron density sampling program Ringer (developed in the Alber Lab at UC Berkeley), we have shown that ensemble features can reliably detected and that noise levels are much lower than commonly thought. Features at low-levels of electron density can reveal ligand, protein and solvent flexibility that can be exploited in inhibitor optimization. We are testing how ensemble (e.g. phenix.ensemble_refinement developed by the Phenix consortium at LBL) and multi-conformer (e.g. qFit developed by our collaborator Henry van den Bedem at SSRL/SLAC) modeling methods can improve both the statistical fit to experimental data and the ability to generate novel biological hypotheses.  The next major challenge is to determine the extent to which distant parts of the protein are conformationally coupled.
