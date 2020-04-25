@@ -342,7 +342,7 @@
     - name: Murphy lab @ Boston University
       url: http://murphylaboratory.com/
 
-- citation: “**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding author"
+- citation: "**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding author"
   date: '200901'
   image: '/static/img/pub/2013RynoCOCB.jpg'
   pmid: '23647985'
