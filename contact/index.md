@@ -65,6 +65,16 @@ San Diego, CA 92121
 
 </div>
 
+<div class="col-md-4">
+
+<h4>Lab Shipping Address</h4>
+
+The Scripps Research Institute, MB110<br>
+9365 Waples Street, Suite E<br>
+San Diego, CA 92121
+
+</div>
+
 </div>
 
 
