@@ -73,9 +73,10 @@ San Diego, CA 92121
 <!-- Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
  -->
 
-### The Mission Bay Campus can be reached:  
+
+### The Scripps Research Campus can be reached:  
 * #### by car:
-  * We are located in the The Skaggs Institute (Molecular Biology) building on the Scripps Research campus. Our physical address is Scripps South Driveway, La Jolla, CA 92037. There is a tiered parking lot located in front our building that is available for visitor parking.
+  * We are located in the The Skaggs Institute (Molecular Biology) building on the Scripps Research campus. Our physical address is Scripps South Driveway, La Jolla, CA 92037. There is a tiered parking lot located in front our building that is available for visitor parking (see map).
   * If being dropped off (by rideshare), Scripps South Driveway, La Jolla, CA 92037 as an address. There is convenient parking circle  to let a passenger out in front of the Molecular Biology building.
 
 ### Once on campus, proceed to the Skaggs Institute (Molecular Biology) building:
