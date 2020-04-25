@@ -11,7 +11,7 @@ Subsequent Position: {{alum.current}} </p>
 </div> {% endfor %}
 
 <br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## [Undergrad Interns](https://education.scripps.edu/undergraduate/)
 
 
 {% for sep in site.data.sep %}
@@ -26,13 +26,16 @@ Subsequent Position: {{sep.current}}<br>
 </div> {% endfor %}
 
 <br>
-## Fraser Lab Visitors
+## [High School Interns](https://education.scripps.edu/k-12-outreach/)
 
 
-{% for visitor in site.data.visitors %}
+{% for sep in site.data.sep %}
 <hr>
-<div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}} from {{visitor.current}}</em><br>
-{% if visitor.startdate %} {{visitor.startdate}} - {% endif %}{{visitor.enddate}}
+<div id = "{{sep.name}}" style="padding-top: 60px; margin-top: -60px;">
+<p><strong>{{sep.name}}</strong><br>
+{% if sep.startdate %} {{sep.startdate}} - {% endif %}{{sep.enddate}} <br>
+{% if sep.current %}
+Subsequent Position: {{sep.current}}<br>
+{% endif %}
 </p>
 </div> {% endfor %}
