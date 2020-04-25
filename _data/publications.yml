@@ -890,127 +890,55 @@ Transient Protein Sites. *ChemBioChem*. 2015."
     - name: 'Cover Photo: A Song of Fire and Ice'
       url: http://onlinelibrary.wiley.com/doi/10.1002/cbic.201590029/abstract
 
-- citation: "Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda ML, de Visser JA, **Fraser JS**, Tawfik DS. Negative epistasis
-and evolvability in TEM-1 β-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of
-Molecular Biology*. 2015."
+- citation: "Giadone, RM; **Rosarda, JD**; Reddy Akepati, P; Thomas, AC; Boldvbataar, B; James, MF; Wilson, AA; Sanchorawala, V; Connors, LH; Berk, JL; **Wiseman, RL**; Murphy, GJ (2018) A Genetically Diverse Library of ATTR Patient-Specific Induced Pluripotent Stem Cells for Disease Modeling and In Vitro Testing of Novel Therapeutics, *Amyloid*, in press."
   date: '201509'
-  image: '/static/img/pub/gur_2015.gif'
-  pmid: '26004540'
-  pmcid: 'PMC4718737'
-  pdf: '/static/pdf/publications/gur_2015.pdf'
-  pdbs:
-     - 4OP5
-     - 4OP8
-     - 4OPQ
-     - 4OPR
-     - 4OPY
-     - 4OPZ
-     - 4OQ0
-     - 4OQG
-     - 4OQH
-     - 4OQI
-  links:
-    - name: Tawfik lab @ The Weizmann Institute of Science
-      url: http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/
+  image: '/static/img/pub/2018GiadoneAmyloid.jpg'
+  pmid: '30032658'
+  pdf: '/static/pdf/publications/2018GiadoneAmyloid.pdf'
+    links:
+    - name: Murphy Lab @ Boston University
+        url: http://murphylaboratory.com/
 
-- citation: "Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N, Binning JM, Jonsson SR, **Barelier S**,
-Newton BW, Johnson TL, Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS,
-Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors
-in the Evolution of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015."
-  date: '201508'
-  image: '/static/img/pub/kane_2015.jpg'
-  pmid: '25981045'
-  pmcid: 'PMC4613747'
-  pdf: '/static/pdf/publications/kane_2015.pdf'
+- citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL**; Kelly, JW (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*, in press. co-corresponding author."
+  date: '2018'
+  image: '/static/img/pub/2018PaxmanELIFE.jpg'
+  pmid: '30084354'
+  pdf: '/static/pdf/publications/2018PaxmanELIFE.pdf'
   links:
-    - name: Gross lab @ UC San Francisco
-      url: http://grosslab.ucsf.edu/
-    - name: Krogan lab @ UC San Francisco
-      url: http://kroganlab.ucsf.edu/
-    - name: HARC Center @ UC San Francisco
-      url: http://harc.ucsf.edu/
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "**Keedy DA, Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray
-crystallography using qFit. *PLOS Computational Biology*. 2015."
-  date: '201507'
-  image: '/static/img/pub/keedy_2015_2.jpg'
-  pmid: '26506617'
-  pmcid: 'PMC4624436'
-  biorxiv: '018879'
-  pdf: '/static/pdf/publications/keedy_2015_2.pdf'
+- citation: "**Lebeau, J; Rainbolt, TK; Wiseman, RL** (2018) Coordinating Mitochondrial Biology Through the Stress-Responsive Regulation of Mitochondrial Proteases, *International Review of Cell and Molecular Biology*, in press."
+  date: '2018'
+  image: '/static/img/pub/2018LebeauReview.jpg'
+  pmid: '30072094'
+  pdf: '/static/pdf/publications/2018LebeauIntRevCellMolBio.pdf'
+
+- citation: "Cole, KS; **Grandjean, JMD**; Chen, K; Witt, CH; O’Day, J; Shoulders, MD; **Wiseman, RL**; Weerapana, E (2018) Characterization of an A-site Selective Protein Disulfide Isomerase A1 Inhibitor, *Biochemistry*, in press."
+  date: '2018'
+  image: '/static/img/pub/2018ColeBiochemistry.jpg'
+  pmid: '29521097'
+  pdf: '/static/pdf/publications/2018ColeBiochemistry.pdf'
   links:
-    - name: qFit code
-      url: https://simtk.org/home/qfit
-    - name: Coordinates for peptide flip clusters
-      url: /static/supp/qfit2_paper_pep_flip_coords.tgz
-    - name: Henry van den Bedem @ Stanford University
-      url: https://vdbedem.people.stanford.edu
-    - name: qFit Server @ SLAC
-      url: http://smb.slac.stanford.edu/qFitServer/qFit.jsp
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/594308094403837952
+    - name: Weerapana Lab @ Boston College
+      url: https://sites.bc.edu/eranthie-weerapana/
+    - name: Shoulders Lab @ MIT
+      url: https://shoulderslab.mit.edu/
 
-- citation: "van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time.
- *Nature Methods*. 2015."
-  date: '201506'
-  image: '/static/img/pub/vdb_2015.jpg'
-  pmid: '25825836'
-  pmcid: 'PMC4457290'
-  pdf: '/static/pdf/publications/vdb_2015.pdf'
+- citation: "**Lebeau, J; Saunders JM; Moraes, VWR; Madhavan, A, Madrazo, N; Anthony, MC; Wiseman, RL** (2018) The PERK Arm of the Unfolded Protein Response Regulates Mitochondrial Morphology During Endoplasmic Reticulum Stress, *Cell Reports*, in press."
+  date: '2018'
+  image: '/static/img/pub/2018LebeauCellReports.jpg'
+  pmid: '29539413'
+  pdf: '/static/pdf/publications/2018LebeauCellRep.pdf'
+
+- citation: "Kroeger, H; Grimsey, N; Paxman, R; Chiang, WC; **Plate, L**; Jones, Y; Shaw, PX; Trejo, J; Tsang, SH; Powers, ET; Kelly, JW; **Wiseman, RL**; Lin, JH (2018) The Unfolded Protein Response Regulator, ATF6, Promotes Mesodermal Differentiation, *Science Signaling*, in press."
+  date: '2018'
+  image: '/static/img/pub/2017KroegerSciSig.jpg'
+  pmid: '29440509'
+  pdf: '/static/pdf/publications/2018KroegerScienceSignaling.pdf'
   links:
-    - name: Henry van den Bedem @ Stanford University
-      url: https://vdbedem.people.stanford.edu
-
-- citation: "**Keedy DA&#42;, Kenner LR&#42;**, Warkentin M&#42;, **Woldeyes RA&#42;**, Hopkins JB, **Thompson MC**, Brewster AS,
-**Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
-Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational
-Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015."
-  date: '201505'
-  image: '/static/img/pub/keedy_2015_1.png'
-  pmid: '26422513'
-  pmcid: 'PMC4721965'
-  biorxiv: '016733'
-  pdf: '/static/pdf/publications/keedy_2015_1.pdf'
-  data:
-    - '10.15785/SBGRID/68'
-  pdbs:
-    - 4YUG
-    - 4YUH
-    - 4YUI
-    - 4YUJ
-    - 4YUK
-    - 4YUL
-    - 4YUM
-    - 4YUN
-    - 4YUO
-    - 4YUP
-  links:
-    - name: Thorne lab @ Cornell University
-      url: http://pages.physics.cornell.edu/~rthorne/
-    - name: Henry van den Bedem @ Stanford University
-      url: https://vdbedem.people.stanford.edu
-    - name: LCLS XPP Beamline
-      url: https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/578354918529994752
-
-- citation: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model
-and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015."
-  date: '201504'
-  image: '/static/img/pub/barad_2015.jpg'
-  pmid: '26280328'
-  pmcid: 'PMC4589481'
-  biorxiv: '014738'
-  pdf: '/static/pdf/publications/barad_2015.pdf'
-  pdbs:
-    - 3J9I
-    - 3J9J
-  links:
-    - name: EMRinger Code on GitHub
-      url: https://github.com/fraser-lab/EMRinger
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/562799246689460224
-
+    - name: Lin Lab @ UCSD
+      url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
 
 - citation: "**Puchades C**; Rampello, AJ; **Shin, Mia**; Giuliano, CJ; **Wiseman, RL**; Glynn, SE; Lander GC (2017) Structure of the mitochondrial inner membrane AAA+ protease YME1 reveals the mechanism of substrate processing, *Science*, in press."
   date: '2017'
