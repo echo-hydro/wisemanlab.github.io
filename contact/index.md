@@ -46,10 +46,10 @@ group: contact
 
 <div class="col-md-4">
 
-<h4>Lab Mailing Address</h4>
+<h4>Lab Physical Address</h4>
 
-The Scripps Research Institute<br>
-10550 N. Torrey Pines Rd. MB-110<br>
+The Skaggs Institute (Molecular Biology) Building<br>
+Scripps South Driveway MB110<br>
 La Jolla, CA 92037
 
 
@@ -57,11 +57,11 @@ La Jolla, CA 92037
 
 <div class="col-md-4">
 
-<h4>Lab Shipping Address</h4>
+<h4>Lab Mailing Address</h4>
 
-The Scripps Research Institute, MB110<br>
-9365 Waples Street, Suite E<br>
-San Diego, CA 92121
+The Scripps Research Institute<br>
+10550 N. Torrey Pines Rd. MB-110<br>
+La Jolla, CA 92037
 
 </div>
 
