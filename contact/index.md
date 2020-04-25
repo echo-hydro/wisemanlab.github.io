@@ -11,7 +11,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
+  <h4>Lab Phone </h4>
   tel: 858 784 9586
 
 </div>
