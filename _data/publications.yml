@@ -892,7 +892,7 @@ Transient Protein Sites. *ChemBioChem*. 2015."
 
 - citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL**; Kelly, JW (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*. co-corresponding author."
   date: '2018'
-  image: '/static/img/pub/2018PaxmanELIFE.jpg'
+  image: '/static/img/pub/2018PaxmaneLIFE.jpg'
   pmid: '30084354'
   pdf: '/static/pdf/publications/2018PaxmanELIFE.pdf'
   links:
@@ -924,7 +924,7 @@ Transient Protein Sites. *ChemBioChem*. 2015."
 
 - citation: "Kroeger, H; Grimsey, N; Paxman, R; Chiang, WC; **Plate, L**; Jones, Y; Shaw, PX; Trejo, J; Tsang, SH; Powers, ET; Kelly, JW; **Wiseman, RL**; Lin, JH (2018) The Unfolded Protein Response Regulator, ATF6, Promotes Mesodermal Differentiation, *Science Signaling*, in press."
   date: '2018'
-  image: '/static/img/pub/2017KroegerSciSig.jpg'
+  image: '/static/img/pub/2018KroegerSciSig.jpg'
   pmid: '29440509'
   pdf: '/static/pdf/publications/2018KroegerScienceSignaling.pdf'
   links:
