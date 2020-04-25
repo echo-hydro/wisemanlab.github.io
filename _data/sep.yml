@@ -1,23 +1,16 @@
-- name: Jessica Calderon
-  startdate: 2011
-  enddate: 2012
-  current: Undergraduate @ CCSF
+- name: Lillian Shallow
+  startdate: Summer 2018,2019
+  current: Undergraduate @ UC-Berkeley
 
-- name: Jennifer Li
-  startdate: 2014
-  enddate: 2017
-  current: Undergraduate @ UC Davis
+- name: Bryan Seguinot
+  startdate: Summer 2017
+  current: Grad Student @ Harvard
 
-- name: Saul Cortez
-  startdate: 2015
-  enddate: 2017
-  current: Undergraduate @ SFSU
-
-- name: Ralp Basilio
+- name: Bianca Nguyen
   startdate: 2016
-  enddate: 2018
-  current: Undergraduate @ SJSU
+  enddate: 2017
+  current: Grad Student @ Vanderbilt
 
-- name: Vanessa Zhu
-  enddate: 2018
+- name: Rigo Cintron-Colon
+  startdate: Summer 2013
   current: Undergraduate @ UCLA

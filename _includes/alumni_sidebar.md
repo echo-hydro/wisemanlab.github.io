@@ -29,13 +29,13 @@ Subsequent Position: {{sep.current}}<br>
 ## [High School Interns](https://education.scripps.edu/k-12-outreach/)
 
 
-{% for sep in site.data.sep %}
+{% for visitors in site.data.visitors %}
 <hr>
-<div id = "{{sep.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{sep.name}}</strong><br>
-{% if sep.startdate %} {{sep.startdate}} - {% endif %}{{sep.enddate}} <br>
-{% if sep.current %}
-Subsequent Position: {{sep.current}}<br>
+<div id = "{{visitors.name}}" style="padding-top: 60px; margin-top: -60px;">
+<p><strong>{{visitors.name}}</strong><br>
+{% if visitors.startdate %} {{visitors.startdate}} - {% endif %}{{visitors.enddate}} <br>
+{% if visitors.current %}
+Subsequent Position: {{visitors.current}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}
