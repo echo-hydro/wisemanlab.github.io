@@ -866,29 +866,14 @@ structures of the M2 proton channel from influenza A virus reveal dynamic pathwa
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/510280611655725056/
 
-- citation: "Fischer M, Shoichet BK, **Fraser JS**. One Crystal, two Temperatures – Cryocooling Penalties alter Ligand Binding to
-Transient Protein Sites. *ChemBioChem*. 2015."
-  date: '201510'
-  image: '/static/img/pub/fischer_2015.jpg'
-  pmid: '26032594'
-  pmcid: 'PMC4539595'
-  pdf: '/static/pdf/publications/fischer_2015.pdf'
-  pdbs:
-    - 4XV7
-    - 4XV6
-    - 4XV5
-    - 4XV4
-    - 4XVA
-    - 4XVB
+- citation: "Giadone, RM; **Rosarda, JD**; Reddy Akepati, P; Thomas, AC; Boldvbataar, B; James, MF; Wilson, AA; Sanchorawala, V; Connors, LH; Berk, JL; **Wiseman, RL**; Murphy, GJ (2018) A Genetically Diverse Library of ATTR Patient-Specific Induced Pluripotent Stem Cells for Disease Modeling and In Vitro Testing of Novel Therapeutics, *Amyloid*."
+  date: '2018'
+  image: '/static/img/pub/2018GiadoneAmyloid.jpg'
+  pmid: '30032658'
+  pdf: '/static/pdf/publications/2018GiadoneAmyloid.pdf'
   links:
-    - name: Shoichet lab @ UC San Francisco
-      url: http://shoichetlab.compbio.ucsf.edu/
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/560232419354112000
-    - name: F1000 Evaluation
-      url: http://f1000.com/prime/725527898
-    - name: 'Cover Photo: A Song of Fire and Ice'
-      url: http://onlinelibrary.wiley.com/doi/10.1002/cbic.201590029/abstract
+    - name: Murphy lab @ Boston University
+      url: http://murphylaboratory.com/
 
 - citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL**; Kelly, JW (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*. co-corresponding author."
   date: '2018'
