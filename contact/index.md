@@ -44,17 +44,6 @@ group: contact
 
 <div class="row">
 
-div class="col-md-4">
-
-<h4>Lab Physical Address</h4>
-
-Skaggs Institute (Molecular Biology) Building Room 110
-Scripps South Driveway
-La Jolla, CA 92037
-
-
-</div>
-
 <div class="col-md-4">
 
 <h4>Lab Mailing Address</h4>
