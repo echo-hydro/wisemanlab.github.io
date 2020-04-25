@@ -1130,163 +1130,56 @@ Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis C
     - name: F1000 Evaluation
       url: http://f1000.com/prime/718430130
 
-- citation: "Fischer M&#42;, Coleman RG&#42;, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and
-conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014."
-  date: '201403'
-  image: '/static/img/pub/fischer_coleman_2014.jpg'
-  pmid: '24950326'
-  pmcid: 'PMC4144196'
-  pdf: '/static/pdf/publications/fischer_coleman_2014.pdf'
-  pdbs:
-    - 4OQ7
-    - 4NVA
-    - 4NVB
-    - 4NVC
-    - 4NVD
-    - 4NVE
-    - 4NVF
-    - 4NVG
-    - 4NVH
-    - 4NVI
-    - 4NVJ
-    - 4NVK
-    - 4NVL
-    - 4NVM
-    - 4NVN
-    - 4NVO
-  links:
-    - name: DOCK Software
-      url: http://dock.compbio.ucsf.edu/DOCK3.7/
-    - name: Shoichet lab @ UC San Francisco
-      url: http://shoichetlab.compbio.ucsf.edu/
-    - name: 'Nature Chemistry - News and Views: Ligand discovery, Docking points'
-      url: http://www.nature.com/nchem/journal/v6/n7/full/nchem.1986.html
-    - name: Nature Chemistry Cover
-      url: http://www.nature.com/nchem/journal/v6/n7/covers/index.html
-    - name: Cover Explanation
-      url: http://rgc.name/images/natchemcoverexplanation.pdf
-
-- citation: "Wall ME, Adams PD, **Fraser JS**, Sauter NK. Diffuse X-ray Scattering to Model Protein Motions. *Structure*. 2014."
+- citation: "Eisele, YS, Monteiro, C; Fearns, C; Encalada, SE; **Wiseman, RL**; Powers, ET; Kelly, JW (2015) Targeting Protein Aggregation for the Treatment of Degenerative Diseases, *Nat Rev Drug Discov.*, 14, 759-780."
   date: '201402'
-  image: '/static/img/pub/wall_2014_2.jpg'
-  pmid: '24507780'
-  pmcid: 'PMC4070675'
-  pdf: '/static/pdf/publications/wall_2014_2.pdf'
+  image: '/static/img/pub/2015EiseleNatRevDrugDisc.jpg'
+  pmid: ' 26338154'
+  pdf: '/static/pdf/publications/2015EiseleNatRevDrugDisc.pdf'
   links:
-    - name: Meeting Slides and Website
-      url: http://cci.lbl.gov/dials/oct_2013_diffuse.htm
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE. Integrated description of protein dynamics from
-room-temperature X-ray crystallography and NMR. *PNAS*. 2014."
-  date: '201401'
-  image: '/static/img/pub/fenwick_2014.jpg'
-  pmid: '24474795'
-  pmcid: 'PMC3910589'
-  pdf: '/static/pdf/publications/fenwick_2014.pdf'
-  pdbs:
-    - 4NX6
-    - 4NX7
-  links:
-    - name: Python Scripts
-      url: http://www.scripps.edu/wright/mcOPA.tar.gz
-    - name: Wright lab @ Scripps Research
-      url: http://www.scripps.edu/wright/
-    - name: F1000 Evaluation
-      url: http://f1000.com/prime/718255725
+- citation: "**Chen, JJ; Genereux, JC; Wiseman, RL** (2015) Endoplasmic Reticulum Quality Control and Systemic Amyloid Disease: Impacting Protein Stability from the Inside Out, *IUBMB Life*, 67, 404-413."
+  date: '2015'
+  image: '/static/img/pub/2015ChenIUBMBLife.jpg'
+  pmid: '26018985'
+  pdf: '/static/pdf/publications/2015ChenIUBMBLife.pdf'
 
-- citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. Protein structural ensembles are revealed by redefining X-ray
-electron density noise. *PNAS*. 2014."
-  date: '201401'
-  image: '/static/img/pub/lang_2014.jpg'
-  pmid: '24363322'
-  pmcid: 'PMC3890839'
-  pdf: '/static/pdf/publications/lang_2014.pdf'
-  pdbs:
-    - 4NX4
+- citation: "Murray, AN; Chen, W; Antonopoulos, A; Hanson, SR; **Wiseman, RL**; Dell, A; Haslam, SM; Powers, DL; Powers, ET; Kelly, JW (2015) Enhanced Aromatic Sequons Increase Oligosaccharyltransferase Glycosylation Efficiency and Glycan Homogeneity, *Chemistry & Biology*, 22, 1052-1062."
+  date: '2015'
+  image: '/static/img/pub/2015MurrayChemBioll.jpg'
+  pmid: '26190824'
+  pdf: '/static/pdf/publications/2015MurrayChemBiol.pdf'
   links:
-    - name: END/RAPID Website
-      url: http://bl831.als.lbl.gov/END/RAPID/
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic
-contact networks from X-ray crystallography. *Nature Methods*. 2013."
-  date: '201304'
-  image: '/static/img/pub/vdb_2013.gif'
-  pmid: '23913260'
-  pmcid: 'PMC3760795'
-  pdf: '/static/pdf/publications/vdb_2013.pdf'
-  pdbs:
-    - 4KJJ
-    - 4KJK
-    - 4KJL
-  links:
-    - name: CONTACT Website
-      url: http://smb.slac.stanford.edu/CONTACT/
-    - name: Henry van den Bedem @ Stanford University
-      url: https://vdbedem.people.stanford.edu
-    - name: Wright lab @ Scripps Research
-      url: http://www.scripps.edu/wright/
-    - name: F1000 Evaluation
-      url: http://f1000.com/prime/718058215
-    - name: 'Nature Methods - News and Views: Vizualizing Networks of Protein Mobility'
-      url: http://www.nature.com/nmeth/journal/v10/n9/pdf/nmeth.2606.pdf
-    - name: 'Nature Structural and Molecular Biology: Crystal Clear Dynamics'
-      url: http://www.nature.com/nsmb/journal/v20/n9/full/nsmb.2670.html
-    - name: 'Nature Chemical Biology: Shake it up, baby'
-      url: http://www.nature.com/nchembio/journal/v9/n10/full/nchembio.1344.html
-    - name: 'SBKB Drug Discovery: Identifying Dynamic Networks by CONTACT'
-      url: http://sbkb.org/update/research/drug-discovery-identifying-dynamic-networks-by-contact
-    - name: 'SLAC: How Proteins Shift into Working Mode'
-      url: http://www6.slac.stanford.edu/news/2013-08-08-How-Proteins-Shift-Into-Working-Mode.aspx
-    - name: 'Youtube: CONTACT'
-      url: http://www.youtube.com/watch?v=O29pJhFUwpk
+- citation: "**Genereux, JC; Wiseman, RL** (2015) Regulating Extracellular Proteostasis Through the Unfolded Protein Response, *Prion*, 9, 10-21."
+  date: '2015'
+  image: '/static/img/pub/2015GenereuxPrion.jpg'
+  pmid: '25946012'
+  pdf: '/static/pdf/publications/2015GenereuxPrion.pdf'
 
-- citation: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F,
-Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative
-genetic analysis of RNA polymerase II. *Cell*. 2013."
-  date: '201303'
-  image: '/static/img/pub/braberg_2013.jpg'
-  pmid: '23932120'
-  pmcid: 'PMC3932829'
-  pdf: '/static/pdf/publications/braberg_2013.pdf'
+- citation: "Baranczak, A; Liu, Yu; Connelly, Stephen; Han Du, W; Greiner, ER; **Wiseman, RL**; Eisele, YS; Bradbury, NC; Dong, J; Sharpless, KB; Noodleman, L; Wilson, IA; Encalada, SE; Kelly, JW (2015) A Fluorogenic Arylfluorosulfate for Intraorganellar Transthyretin Imaging in Living Cells and in C. elegans, *J. Am. Chem. Soc.*, 137, 7404-7414."
+  date: '2015'
+  image: '/static/img/pub/2015BaranczakJACS.jpg'
+  pmid: '26051248'
+  pdf: '/static/pdf/publications/2015BaranczakJACS.pdf'
   links:
-    - name: Krogan lab @ UC San Francisco
-      url: http://kroganlab.ucsf.edu/
-    - name: F1000 Evaluation
-      url: http://f1000.com/prime/718071447
-    - name: 'UCSF: Innovative Method to Profile and Predict the Behavior of Proteins'
-      url: http://www.ucsf.edu/news/2013/08/107951/scientists-devise-innovative-method-profile-and-predict-behavior-proteins
-    - name: 'Nature: Pol II Interactions in Detail'
-      url: http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg3582.html
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T. Flexible Backbone Sampling Methods to Model and Design
-Protein Alternative Conformations. *Methods in Enzymology*. 2013."
-  date: '201302'
-  image: '/static/img/pub/ollikainen_2013.jpg'
-  pmid: '23422426'
-  pmcid: 'PMC3750959'
-  pdf: '/static/pdf/publications/ollikainen_2013.pdf'
-  links:
-    - name: Backrub Server @ Kortemme lab
-      url: https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index
-    - name: Supplementary Material
-      url: https://kortemmelab.ucsf.edu/resources/MIE_Supplement.tar.gz
-    - name: Kortemme lab @ UC San Francisco
-      url: http://kortemmelab.ucsf.edu/
+- citation: "**Rainbolt, TK; Saunders, JM; Wiseman RL** (2015) YME1L Degradation Reduces Mitochondrial Proteolytic Capacity During Oxidative Stress, *EMBO Reports*, 16, 97-106."
+  date: '2015'
+  image: '/static/img/pub/Rainbolt2015EMBORep.jpg'
+  pmid: '25433032'
+  pdf: '/static/pdf/publications/2015RainboltEMBORep.pdf'
 
-- citation: "**Fraser JS**, Gross JD, Krogan NJ. From Systems to Structure: Bridging Networks and Mechanism.
-*Molecular Cell*. 2013."
-  date: '201301'
-  image: '/static/img/pub/fraser_2013.jpg'
-  pmid: '23352243'
-  pmcid: 'PMC3558917'
-  pdf: '/static/pdf/publications/fraser_2013.pdf'
-  links:
-    - name: Gross lab @ UC San Francisco
-      url: http://grosslab.ucsf.edu/
-    - name: Krogan lab @ UC San Francisco
-      url: http://kroganlab.ucsf.edu/
-    - name: 'Molecular Cell: Celebrating 15 years of New Connections'
-      url: http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2
+- citation: "**Genereux, JC; Qu, S**; Zhou, M; **Ryno, LM**; Wang, S; **Shoulders, MD**; Kaufman, RJ; Lazmezas, CI; Kelly, JW; **Wiseman RL** (2015) Unfolded Protein Response-Induced ERdj3 Secretion Links ER Stress to Extracellular Proteostasis, *EMBO J*, 34, 4-19."
+  date: '2015'
+  image: '/static/img/pub/2015GenereuxEMBOJ.jpg'
+  pmid: '25361606 '
+  pdf: '/static/pdf/publications/2015GenereuxEMBOJ.pdf'
 
 - citation: "**Chen, JJ; Genereux, JC; Qu, S**; Hulleman, JD; **Shoulders, MD; Wiseman, RL** (2014) Increasing ER Quality Control Stringency Through ATF6 Activation Reduces Secretion and Extracellular Aggregation of Destabilized Variants of an Amyloidogenic Protein, *Chemistry & Biology*, 21, 1564-1574."
   date: '201203'
