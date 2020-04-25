@@ -1,5 +1,5 @@
 
-### Fraser Lab Alumni
+### Wiseman Lab Alumni
 
 
 {% for alum in site.data.alumni %}
