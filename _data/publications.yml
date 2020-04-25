@@ -1012,45 +1012,32 @@ and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015."
       url: https://twitter.com/fraser_lab/status/562799246689460224
 
 
-- citation: "Urzhumtsev A, Afonine PV, **Van Benschoten AH, Fraser JS**, Adams PD. From deep TLS validation to ensembles of
-atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
-  date: '201503'
-  image: '/static/img/pub/urzhumtsev_2015.jpg'
-  pmid: '26249348'
-  pmcid: 'PMC4528800'
-  biorxiv: '012930'
-  pdf: '/static/pdf/publications/urzhumtsev_2015.pdf'
+- citation: "**Puchades C**; Rampello, AJ; **Shin, Mia**; Giuliano, CJ; **Wiseman, RL**; Glynn, SE; Lander GC (2017) Structure of the mitochondrial inner membrane AAA+ protease YME1 reveals the mechanism of substrate processing, *Science*, in press."
+  date: '2017'
+  image: '/static/img/pub/2017PuchadesScience.jpg'
+  pmid: '29097521 '
+  biorxiv: '189316'
+  pdf: '/static/pdf/publications/2017PuchadesScience.pdf'
   links:
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/545387123688214528
-    - name: Addenda and corrigendum
-      url: '/static/pdf/publications/Urzhumtsev_Corrigendum.pdf'
+    - name: Lander Lab @ Scripps Research
+      url: http://www.lander-lab.com/
+    - name: Glynn Lab @ Stony Brook
+      url: https://you.stonybrook.edu/glynnlab/
 
-- citation: "**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A,
-**Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles.
-*Acta Crystallographica D*. 2015."
-  date: '201502'
-  image: '/static/img/pub/vb_2015.jpg'
-  pmid: '26249347'
-  pmcid: 'PMC4528799'
-  biorxiv: '012955'
-  pdf: '/static/pdf/publications/vb_2015.pdf'
-  links:
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/545387123688214528
-    - name: Summary by iUCr
-      url: http://www.iucr.org/news/research-news/predicting-x-ray-diffuse-scattering-from-translation-libration-screw-structural-ensembles
+- citation: "**Plate, L; Wiseman, RL** (2017) Regulating Secretory Proteostasis Through the Unfolded Protein Response: From Function to Therapy, *Trends in Cell Biology*, in press."
+  date: '2017'
+  image: '/static/img/pub/2017PlateTrends.jpg'
+  pmid: '28647092'
+  pdf: '/static/pdf/publications/2017PlateTrendsCellBiol.pdf'
 
-- citation: "Bhabha G, **Biel JT, Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics
- of Enzymes. *Accounts of Chemical Research*. 2015."
-  date: '201501'
-  image: '/static/img/pub/bhabha_2014.jpg'
-  pmid: '25539415'
-  pmcid: 'PMC4334266'
-  pdf: '/static/pdf/publications/bhabha_2014.pdf'
+- citation: "**Chen, KC; Qu, S**; Chowdury, S; Noxon, IC; Schonhoft, JD; **Plate, L**; Powers, ET; Kelly, JW; Lander, GC; **Wiseman, RL** (2017) The Endoplasmic Reticulum HSP40 Co-chaperone ERdj3/DNAJB11 Assembles and Functions as a Tetramer, *EMBO J*, 36, 2296-2309."
+  date: '2017'
+  image: '/static/img/pub/2017EMBOJ.jpg'
+  pmid: '28655754'
+  pdf: '/static/pdf/publications/2017ChenEMBOJ.pdf'
   links:
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/504068281766920193
+    - name: Lander Lab @ Scripps Research
+      url: http://www.lander-lab.com/
 
 - citation: "**Chen, JJ; Genereux, JC**; Suh, EH; **Vartabedian, VF; Rius, Bibiana; Qu, S**; Dendle, MTA; Kelly, JW; **Wiseman, RL** (2016) Endoplasmic Reticulum Proteostasis Influences the Oligomeric State of an Amyloidogenic Protein Secreted from Mammalian Cells, *Cell Chemical Biology*, 23, 1282-1293."
   date: '2016'
