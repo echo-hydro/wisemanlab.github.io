@@ -56,7 +56,7 @@
   pmid: '32271167'
   pdf: '/static/pdf/publications/2020LeeJCIInsight.pdf'
   links:
-    - name: Lin Lab @ UCSD
+    - name: Lin lab @ UCSD
       url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
 
 - citation: "**Puchades, CP**; Ding, B; **Song, A; Wiseman, RL**; Lander GC; Glynn, SE (2019) Unique Structural Features of the Mitochondrial AAA+ Protease AFG3L2 Reveal the Molecular Basis for Activity in Health and Disease, *Molecular Cell*."
@@ -66,9 +66,9 @@
   biorxiv: '551085'
   pdf: '/static/pdf/publications/2019PuchadesMolCell.pdf'
   links:
-    - name: Lander Lab @ Scripps Research
+    - name: Lander lab @ Scripps Research
       url: http://www.lander-lab.com/
-    - name: Glynn Lab @ Stony Brook
+    - name: Glynn lab @ Stony Brook
       url: https://you.stonybrook.edu/glynnlab/
 
 - citation: "**Plate, L; Rius, B; Nguyen, B; Genereux, JC**; Kelly, JW; **Wiseman, RL** (2019) Quantitative Interactome Proteomics Reveals a Molecular Basis for ATF6-dependent Regulation of a Destabilized, Amyloidogenic Protein, *Cell Chem Biol*."
@@ -140,7 +140,7 @@
   pmid: '30084354'
   pdf: '/static/pdf/publications/2018PaxmanELIFE.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Lebeau, J; Rainbolt, TK; Wiseman, RL** (2018) Coordinating Mitochondrial Biology Through the Stress-Responsive Regulation of Mitochondrial Proteases, *International Review of Cell and Molecular Biology*, in press."
@@ -155,9 +155,9 @@
   pmid: '29521097'
   pdf: '/static/pdf/publications/2018ColeBiochemistry.pdf'
   links:
-    - name: Weerapana Lab @ Boston College
+    - name: Weerapana lab @ Boston College
       url: https://sites.bc.edu/eranthie-weerapana/
-    - name: Shoulders Lab @ MIT
+    - name: Shoulders lab @ MIT
       url: https://shoulderslab.mit.edu/
 
 - citation: "**Lebeau, J; Saunders JM; Moraes, VWR; Madhavan, A, Madrazo, N; Anthony, MC; Wiseman, RL** (2018) The PERK Arm of the Unfolded Protein Response Regulates Mitochondrial Morphology During Endoplasmic Reticulum Stress, *Cell Reports*, in press."
@@ -172,7 +172,7 @@
   pmid: '29440509'
   pdf: '/static/pdf/publications/2018KroegerScienceSignaling.pdf'
   links:
-    - name: Lin Lab @ UCSD
+    - name: Lin lab @ UCSD
       url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
 
 - citation: "**Puchades C**; Rampello, AJ; **Shin, Mia**; Giuliano, CJ; **Wiseman, RL**; Glynn, SE; Lander GC (2017) Structure of the mitochondrial inner membrane AAA+ protease YME1 reveals the mechanism of substrate processing, *Science*, in press."
@@ -182,9 +182,9 @@
   biorxiv: '189316'
   pdf: '/static/pdf/publications/2017PuchadesScience.pdf'
   links:
-    - name: Lander Lab @ Scripps Research
+    - name: Lander lab @ Scripps Research
       url: http://www.lander-lab.com/
-    - name: Glynn Lab @ Stony Brook
+    - name: Glynn lab @ Stony Brook
       url: https://you.stonybrook.edu/glynnlab/
 
 - citation: "**Plate, L; Wiseman, RL** (2017) Regulating Secretory Proteostasis Through the Unfolded Protein Response: From Function to Therapy, *Trends in Cell Biology*, in press."
@@ -199,7 +199,7 @@
   pmid: '28655754'
   pdf: '/static/pdf/publications/2017ChenEMBOJ.pdf'
   links:
-    - name: Lander Lab @ Scripps Research
+    - name: Lander lab @ Scripps Research
       url: http://www.lander-lab.com/
 
 - citation: "**Chen, JJ; Genereux, JC**; Suh, EH; **Vartabedian, VF; Rius, Bibiana; Qu, S**; Dendle, MTA; Kelly, JW; **Wiseman, RL** (2016) Endoplasmic Reticulum Proteostasis Influences the Oligomeric State of an Amyloidogenic Protein Secreted from Mammalian Cells, *Cell Chemical Biology*, 23, 1282-1293."
@@ -208,7 +208,7 @@
   pmid: '27720586'
   pdf: '/static/pdf/publications/2016ChenCellChemBiol.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Plate, Lars; Cooley, CB; Chen, JJ**; Paxman, RJ; Gallagher, CM; Madoux, F; **Genereux, JC**; Dobbs, W; Garza, D; Spicer, TP; Scampavia, L; Brown, SJ; Rosen, H; Powers, ET; Walter, P; Hodder, P; **Wiseman, RL**; Kelly, JW (2016) Small Molecule ER Proteostasis Regulators that Reprogram the ER to Reduce Extracellular Protein Aggregation, *eLIFE*, in press. co-corresponding author"
@@ -217,7 +217,7 @@
   pmid: '27435961'
   pdf: '/static/pdf/publications/2016PlateELIFE.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
     - name: Scripps Research Institute Molecule Screening Center
       url: https://hts.florida.scripps.edu/index.html
@@ -228,7 +228,7 @@
   pmid: '27435959'
   pdf: '/static/pdf/publications/2016PlateELIFECommentary.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Rainbolt, TK; Lebeau, J; Puchades, C; Wiseman, RL** (2016) Reciprocal Degradation of YME1L and OMA1 Adapts Mitochondrial Proteolytic Activity During Stress, *Cell Reports*, 14, 2041-2049."
@@ -243,7 +243,7 @@
   pmid: '26338154'
   pdf: '/static/pdf/publications/2015EiseleNatRevDrugDisc.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Chen, JJ; Genereux, JC; Wiseman, RL** (2015) Endoplasmic Reticulum Quality Control and Systemic Amyloid Disease: Impacting Protein Stability from the Inside Out, *IUBMB Life*, 67, 404-413."
@@ -258,7 +258,7 @@
   pmid: '26190824'
   pdf: '/static/pdf/publications/2015MurrayChemBiol.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Genereux, JC; Wiseman, RL** (2015) Regulating Extracellular Proteostasis Through the Unfolded Protein Response, *Prion*, 9, 10-21."
@@ -273,7 +273,7 @@
   pmid: '26051248'
   pdf: '/static/pdf/publications/2015BaranczakJACS.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Rainbolt, TK; Saunders, JM; Wiseman RL** (2015) YME1L Degradation Reduces Mitochondrial Proteolytic Capacity During Oxidative Stress, *EMBO Reports*, 16, 97-106."
@@ -300,7 +300,7 @@
   pmid: '25157167'
   pdf: '/static/pdf/publications/2014CooleyPNAS.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "Rappley, I; Monteiro, C; Novais, M; Baranczak, A; Solis, G; **Wiseman, RL**; Helmke, S; Maurer, MS; Coelho, T; Powers, ET; Kelly, JW (2014) Quantification of Transthyretin Kinetic Stability in Human Plasma Using Subunit Exchange, *Biochemistry*, 53, 1993-2006."
@@ -309,7 +309,7 @@
   pmid: '24661308 '
   pdf: '/static/pdf/publications/2014RappleyBiochemistry.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Rainbolt, TK; Saunders, JM; Wiseman RL** (2014) Stress-Responsive Adaptation of Mitochondria Through the ER Unfolded Protein Response. *Trends in Endocrinology and Metabolism*, 25, 528-537."
@@ -339,7 +339,7 @@
   pmid: '24286032 '
   pdf: '/static/pdf/publications/2013LeungStemCellRep.pdf'
   links:
-    - name: Murphy Lab @ Boston University
+    - name: Murphy lab @ Boston University
       url: http://murphylaboratory.com/
 
 - citation: “**Ryno, LM; Wiseman, RL**; Kelly, JW (2013) Targeting Unfolded Protein Response Signaling Pathways to Ameliorate Protein Misfolding Diseases, *Curr. Opin. Chem. Biol*, 17, 346-352. co-corresponding author"
@@ -348,7 +348,7 @@
   pmid: '23647985'
   pdf: '/static/pdf/publications/2013RynoCurrOpChemBiol'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Shoulders, MD; Ryno, LM; Cooley, CB**; Kelly, JW; **Wiseman, RL** (2013) Broadly Applicable Methodology for the Rapid and Dosable Small Molecule-Mediated Regulation of Transcription Factors in Human Cells, *J. Am. Chem. Soc.*, 135, 8129-8135"
@@ -357,7 +357,7 @@
   pmid: '23682758 '
   pdf: '/static/pdf/publications/2013ShouldersJACS.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Shoulders, MD; Ryno, LM; Genereux, JC**; Moresco, JJ; Tu, PG; Yates, III, JR; Su, AI; Kelly, JW; **Wiseman, RL** (2013) Stress-independent Activation of XBP1s and/or ATF6 Reveals Three Functionally Diverse ER Proteostasis Environments, *Cell Reports*, 3, 1279-1292"
@@ -366,7 +366,7 @@
   pmid: '23583182 '
   pdf: '/static/pdf/publications/2013ShouldersCellRep.pdf'
   links:
-    - name: Kelly Lab @ Scripps Research
+    - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
 - citation: "**Genereux, JC; Wiseman, RL** (2011) Chemically targeting the emergent properties of a chaperone complex, *Chem Biol*, 18, 144-145"
