@@ -5,23 +5,23 @@
   email: wiseman (at) scripps.edu
   twitter: WisemanLab
   orcid: 0000-0001-9287-6840
-  description: '**Education**
+  description: '**Education** \
 
-  B.Sc. in Chemistry, University of Virginia (1997-2001)
+  B.Sc. in Chemistry, University of Virginia (1997-2001)\
 
-  Ph.D in Jeff Kelly’s lab., Scripps Research (2001-2005)
+  Ph.D in Jeff Kelly’s lab., Scripps Research (2001-2005)\
 
-  Postdoctoral Fellow in David Ron’s lab (2005-2009)
+  Postdoctoral Fellow in David Ron’s lab (2005-2009)\
 
-  **Academic Positions**
+  **Academic Positions**\
 
-  Faculty Member, Skaggs Graduate School, Scripps Research (2009-present)
+  Faculty Member, Skaggs Graduate School, Scripps Research (2009-present)\
 
-  Assistant Professor, Department of Molecular & Experimental Medicine, Scripps Research (2009-2016)
+  Assistant Professor, Department of Molecular & Experimental Medicine, Scripps Research (2009-2016)\
 
-  Associate Professor, Department of Molecular Medicine, Scripps Research (2016-present)
+  Associate Professor, Department of Molecular Medicine, Scripps Research (2016-present)\
 
-  **The Prize** (Wiseman lab members who most recently published a manuscript get to change my description)
+  **The Prize** (Wiseman lab members who most recently published a manuscript get to change my description)\
   XXXXXXXXXXXXXXXX'
 
 - name: Karen Hughes
@@ -32,18 +32,13 @@
   email: khughes (at) scripps.edu
   description: "Karen runs the show. Anything you need, she gets it done, provided you can get by Cooper. When not in lab, Karen enjoys hiking and clog dancing."
 
-- name: Hector Chaires
-  image: /static/img/members/Chaires.jpg
+- name: Justine Lebeau, PhD
+  image: /static/img/members/Justine.jpg
   altimage: /static/img/members/Chaires_pb.jpg
-  pronouns: he/him/his
-  position: Junior Specialist
-  github: hcaires
-  email: hchaires (at) fraserlab.com
-  description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of \
-  Dr. George Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to \
-  a wide range of antibiotics. As an [HHMI EXROP](https://www.hhmi.org/science-education/programs/exceptional-research-opportunities-program-exrop/) fellow, he studied antibody affinity maturation in the Harrison lab at HMS. \
-  His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, \
-  using cryo-electron microscopy. When not in the lab, Hector enjoys hiking, exploring beaches, and Latin dance."
+  pronouns: she/her/hers
+  position: Postdoctoral Fellow
+  email: jlebeau (at) scripps.edu
+  description: "Justine XXXXXXX."
 
 - name: Galen Correy
   image: /static/img/members/Correy.jpg
