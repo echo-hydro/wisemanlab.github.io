@@ -1,5 +1,5 @@
 
-### Wiseman Lab Alumni
+### Wiseman Lab Alumni (gone but not forgotten)
 
 
 {% for alum in site.data.alumni %}
