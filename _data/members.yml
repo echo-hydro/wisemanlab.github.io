@@ -21,56 +21,45 @@
   image: /static/img/members/Justine.jpg
   altimage: /static/img/members/Chaires_pb.jpg
   pronouns: she/her/hers
-  position: Postdoctoral Fellow
+  position: Postdoctoral fellow
   email: jlebeau (at) scripps.edu
   description: "Justine XXXXXXX."
 
-- name: Galen Correy
-  image: /static/img/members/Correy.jpg
+- name: Vivian Dolina, PhD
+  image: /static/img/members/Vivian.jpg
   altimage: /static/img/members/Correy_pb.jpg
-  pronouns: he/him/his
-  position: Postdoc
-  github: gcorrey
-  email: galen.correy (at) ucsf.edu
-  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering \
-  and drug design. He earned his PhD from the Australian National University, where he worked with Dr. Colin Jackson on the \
-  structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser \
-  lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design \
-  of new inhibitors of an emerging anti-cancer therapeutic target."
+  pronouns: she/her/hers
+  position: Postdoctoral fellow
+  email: vmoraes (at) scripps.edu
+  description: "Vivian XXXXXXX.
 
-- name: Roberto Efraín (Robbie) Díaz
-  image: /static/img/members/Diaz.jpg
+  Vivian is supported by a postdoctoral fellowship from the George Hewitt foundation"
+
+- name: Bibiana Rius, PhD
+  image: /static/img/members/Bibi.jpg
   altimage: /static/img/members/Diaz_pb.jpg
-  pronouns: he/him/his
-  position: Graduate Student
-  email: roberto.diaz (at) ucsf.edu
+  pronouns: she/her/hers
+  position: Postdoctoral fellow
+  email: bibirius (at) ucsf.edu
   scholar: L_OCeG4AAAAJ
   twitter: robbiediaz_ucsf
   orcid: 0000-0002-1172-9919
-  github: rediaz111
-  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. \
-  He studied how transcription factors regulate axon regeneration in the central nervous system as an \
-  undergraduate in Dr. Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to \
-  study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to \
-  museums, and biking around the city.
+  description: "Bibi XXXX.
 
 
-  Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and \
-  [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/)."
+  Bibi is supported by a postdoctoral fellowship from the [Leukemia and Lymphoma Society](https://www.lls.org/)."
 
-- name: Gabriella Estevam
-  image: /static/img/members/Estevam.jpg
+- name: Dorian Rosen, PhD
+  image: /static/img/members/Dorian.jpg
   altimage: /static/img/members/Estevam_pb.jpg
-  position: Graduate Student
-  pronouns: she/her/hers
-  email: gabriella.estevam (at) ucsf.edu
+  position: Postdoctoral fellow
+  pronouns: he/him/his
+  email: drosen (at) scripps.edu
   twitter: GabbyEstevam
-  github: gestevam
-  description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. \
-  As an undergraduate, she studied the structure and dynamics of telomeres and telomerase under the mentorship of Dr. Michael \
-  Stone, where her focus was on developing a high-throughput platform to study telomere lengthening. In the Fraser Lab, \
-  Gabby is interested in studying the allosteric regulation of kinase activity through molecular and structural biology. \
-  Outside of lab, she enjoys exploring nature and tries her best to longboard."
+  description: "Dorian XXXXXXX
+
+
+  Dorian is supported by a postdoctoral fellowship from the [American Heart Association](https://www.heart.org/)"
 
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
