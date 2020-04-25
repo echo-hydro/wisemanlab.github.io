@@ -95,4 +95,4 @@ San Diego, CA 92121
 3. Luke's office is in MB110. Please walk straight ahead into the lab and his office is straight ahead.
 
 
-<img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
+<img class="img-fluid" src="/static/img/ScrippsMap.jpg" alt="Map of Mission Bay">
