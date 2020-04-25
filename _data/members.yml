@@ -67,70 +67,61 @@
 
   Dorian is supported by a postdoctoral fellowship from the [American Heart Association](https://www.heart.org/)"
 
-- name: D. John Lee
-  image: /static/img/members/Lee.jpg
+- name: Julia Grandjean
+  image: /static/img/members/Julia.jpg
   altimage: /static/img/members/Lee_pb.jpg
-  pronouns: he/him/his
-  position: Postdoc
-  email: djohnlee (at) fraserlab.com
-  github: djohnlee
+  pronouns: she/her/hers
+  position: Graduate student
+  email: jdendle (at) scripps.edu
   scholar: vJBNuDUAAAAJ
-  linkedin: djohnlee
-  description: "John earned his Ph.D. working with Dr. Michael Burkart at the University of California, San Diego. \
-  His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, \
-  and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to \
-  explore structural biology and study minor conformational states.
+  description: "Julia XXXX.
 
 
-  John is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIAID](https://www.niaid.nih.gov/)."
+  Julia is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIA](https://www.nia.nih.gov/)."
 
-- name: Lin Liu
-  image: /static/img/members/Liu.jpg
+- name: Belle Romine
+  image: /static/img/members/Belle.jpg
+  altimage: /static/img/members/Lee_pb.jpg
+  pronouns: she/her/hers
+  position: Graduate student
+  email: inoxon (at) scripps.edu
+  scholar: vJBNuDUAAAAJ
+  description: "Belle XXXX.
+
+
+  Belle is supported by a a predoctoral fellowship from the [AHA](https://www.heart.org/)."
+
+- name: Mia Shin
+  image: /static/img/members/Mia.jpg
   altimage: /static/img/members/Liu_pb.jpg
   pronouns: she/her/hers
-  position: Staff Scientist
-  email: lin.liu (at) ucsf.edu
-  github: lliu1234
+  position: Graduate Student
+  email: mshin (at) scripps.edu
   scholar: 5kUDcJ0AAAAJ
-  description: "Lin was a graduate student at University of Pittsburgh with Dr. Angela Gronenborn and Dr. Ivet Bahar. Next, \
-  Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and \
-  experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the \
-  Fraser lab and has become the key go-to person for its day-to-day operations!"
+  description: "Mia XXXXXXX
 
-- name: Jen Michaud
-  image: /static/img/members/Michaud.jpg
+
+  Mia is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)"
+
+- name: Aparajita Madhavan
+  image: /static/img/members/Aparajita.jpg
   altimage: /static/img/members/Michaud_pb.jpg
   pronouns: she/her/hers
-  position: Associate Specialist
-  email: jennifer.michaud (at) ucsf.edu
+  position: Graduate Student
+  email: amadhav (at) scripps.edu
   scholar: X7mvTacAAAAJ
   orcid: 0000-0002-0872-0825
   twitter: jmmichaud
-  github: jmmichaud
-  description: "Jen completed her undergraduate degree at Boston University in Biochemistry and Molecular Biology where \
-  she studied neurobiology of female rat reproduction under Dr. Mary Erskine. She went on to work as a lab supervisor and \
-  in the algae biofuels industry before returning to academia to pursue her Ph.D. at UC San Diego in the lab of Dr. Michael \
-  Burkart. In his lab she worked on diverse projects ranging from the use of biochemical probes to understand protein-protein \
-  interactions in fatty acid and polyketide synthases to various approaches including metagenomics to explore the biochemical \
-  influences on marine atmospheric composition. In the Fraser lab she seeks to utilize computational approaches to enable\
-  high-throughput experiments through automation and pipeline development."
+  description: "Aparajita XXXXX."
 
-- name: Jenna Pellegrino
-  image: /static/img/members/Pellegrino.jpg
+- name: Jessica Rosarda
+  image: /static/img/members/JessicaElsie.jpg
   altimage: /static/img/members/Pellegrino_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
-  email: jenna.pellegrino (at) ucsf.edu
-  orcid: 0000-0002-6212-395X
-  github: jepellegrino
-  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and in French. \
-  While an undergrad, she studied the structure-function relationships of diiron carboxylate enzymes rubrerythrin and \
-  symerythrin using the de novo G4DFsc protein model system under the guidance of Dr. Amanda Reig. Now at UCSF, she studies
-  the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys climbing, \
-  reading, playing squash, and gaming.
-
-
-  Jenna is supported by a graduate fellowship from [NSF](http://www.nsfgrfp.org/)."
+  email: rosarda (at) ucsf.edu
+  orcid: 0000-0002-2742-7413
+  description: "Jessica is a third year graduate student studying the mechanisms by which pharmacologic modulators of ATF6 protect against ischemia / reperfusion injury. Her initial studies focused on neuroprotective mechanisms and she is currently looking at the role of ATF6 in inflammatory signaling. She earned a Bachelor of Science degree from Washington and Lee University, where she studied the population dynamics of Virginia sneezeweed as well as brook trout using genetic markers. She also holds a Master of Science degree in Pharmacy from the University of Florida, which she earned while identifying missing US service members as a forensic DNA analyst at the Armed Forces DNA Identification Laboratory. She later served as the Sequencing Project Coordinator at the National Institutes of Health Sequencing Center. In addition to her graduate studies at Scripps Research, she actively participates in outreach and philanthropy events and brings her dog Elsie to lab most days. Outside of the lab she enjoys boxing and gardening."
 
 - name: Leah Roe
   image: /static/img/members/Roe.jpg
