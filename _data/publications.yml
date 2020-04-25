@@ -50,13 +50,21 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Lee, EJ; Chiang, WC; Kroeger, H; Bi, CX; Chao, D; Mastey, RR; Tsang SH; Chea, L; Lambert, SR; **Grandjean JMD**; Baumann, B; Audo, I; Kohl, S; Moore, AT; **Wiseman, RL**; Carroll, J; Lin, JH (2020) Multi-Exon Deletion Alleles of ATF6 Linked to Achromatopsia, *JCI Insight*."
+  date: '2020'
+  image: '/static/img/pub/2020LeeJCIInsight.jpg'
+  pmid: '32271167'
+  pdf: '/static/pdf/publications/2020LeeJCIInsight.pdf'
+  links:
+    - name: Lin Lab @ UCSD
+      url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
 
 - citation: "**Puchades, CP**; Ding, B; **Song, A; Wiseman, RL**; Lander GC; Glynn, SE (2019) Unique Structural Features of the Mitochondrial AAA+ Protease AFG3L2 Reveal the Molecular Basis for Activity in Health and Disease, *Molecular Cell*."
   date: '2019'
   image: '/static/img/pub/2019PuchadesMolCell.jpg'
   pmid: '31327635'
   biorxiv: '551085'
-  pdf: '/static/pdf/publications/2019PuchadesMolCell8.pdf'
+  pdf: '/static/pdf/publications/2019PuchadesMolCell.pdf'
   links:
     - name: Lander Lab @ Scripps Research
       url: http://www.lander-lab.com/
