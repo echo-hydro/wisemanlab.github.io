@@ -890,15 +890,6 @@ Transient Protein Sites. *ChemBioChem*. 2015."
     - name: 'Cover Photo: A Song of Fire and Ice'
       url: http://onlinelibrary.wiley.com/doi/10.1002/cbic.201590029/abstract
 
-- citation: "Giadone, RM; **Rosarda, JD**; Reddy Akepati, P; Thomas, AC; Boldvbataar, B; James, MF; Wilson, AA; Sanchorawala, V; Connors, LH; Berk, JL; **Wiseman, RL**; Murphy, GJ (2018) A Genetically Diverse Library of ATTR Patient-Specific Induced Pluripotent Stem Cells for Disease Modeling and In Vitro Testing of Novel Therapeutics, *Amyloid*"
-  date: '2018'
-  image: '/static/img/pub/2018GiadoneAmyloid.jpg'
-  pmid: '30032658'
-  pdf: '/static/pdf/publications/2018GiadoneAmyloid.pdf'
-    links:
-      - name: Murphy Lab @ Boston University
-        url: http://murphylaboratory.com/
-
 - citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL**; Kelly, JW (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*. co-corresponding author."
   date: '2018'
   image: '/static/img/pub/2018PaxmanELIFE.jpg'
