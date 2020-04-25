@@ -1052,88 +1052,45 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/504068281766920193
 
-- citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC. Conformational Dynamics of a
-Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014."
-  date: '201407'
-  image: '/static/img/pub/wall_2014_1.jpg'
-  pmid: '25453071'
-  pmcid: 'PMC4273327'
-  pdf: '/static/pdf/publications/wall_2014_1.pdf'
-  pdbs:
-    - 4WOR
+- citation: "**Chen, JJ; Genereux, JC**; Suh, EH; **Vartabedian, VF; Rius, Bibiana; Qu, S**; Dendle, MTA; Kelly, JW; **Wiseman, RL** (2016) Endoplasmic Reticulum Proteostasis Influences the Oligomeric State of an Amyloidogenic Protein Secreted from Mammalian Cells, *Cell Chemical Biology*, 23, 1282-1293."
+  date: '2016'
+  image: '/static/img/pub/2016ChenCellChemBiol.jpg'
+  pmid: '27720586'
+  pdf: '/static/pdf/publications/2016ChenCellChemBiol.pdf'
   links:
-    - name: Michael Wall @ Los Alamos National Lab
-      url: http://public.lanl.gov/mewall/
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/506975938043580416
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-
-- citation: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A,
-Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases
-from the gut microbiota. *Cell Host and Microbe*. 2014."
-  date: '201406'
-  image: '/static/img/pub/williams_2014.jpg'
-  pmid: '25263219'
-  pmcid: 'PMC4260654'
-  pdf: '/static/pdf/publications/williams_2014.pdf'
-  pdbs:
-    - 4OBU
-    - 4OBV
+- citation: "**Plate, Lars; Cooley, CB; Chen, JJ**; Paxman, RJ; Gallagher, CM; Madoux, F; **Genereux, JC**; Dobbs, W; Garza, D; Spicer, TP; Scampavia, L; Brown, SJ; Rosen, H; Powers, ET; Walter, P; Hodder, P; **Wiseman, RL**; Kelly, JW (2016) Small Molecule ER Proteostasis Regulators that Reprogram the ER to Reduce Extracellular Protein Aggregation, *eLIFE*, in press. co-corresponding author"
+  date: '2016'
+  image: '/static/img/pub/2016PlateELIFE.jpg'
+  pmid: '27435961'
+  pdf: '/static/pdf/publications/2016PlateELIFE.pdf'
   links:
-    - name: Fischbach lab @ Stanford University
-      url: http://www.fischbachgroup.org
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/422902102298357760
-    - name: Cell Host & Microbe Podcast
-      url: http://www.cell.com/pb/assets/raw/journals/research/cell-host-microbe/fischbach.mp3
-    - name: 'Science Signaling: Bacteria May Mess with Your Mind'
-      url: http://stke.sciencemag.org/content/7/348/ec289.abstract
-    - name: 'Nature Reviews Microbiology: Bacteria and the brain'
-      url: http://www.nature.com/nrmicro/journal/v12/n11/full/nrmicro3373.html
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+    - name: Scripps Research Institute Molecule Screening Center
+      url: https://hts.florida.scripps.edu/index.html
 
-- citation: "**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations.
-*Current Opinion in Structural Biology*. 2014."
-  date: '201405'
-  image: '/static/img/pub/woldeyes_2014.jpg'
-  pmid: '25113271'
-  pmcid: 'PMC4253534'
-  pdf: '/static/pdf/publications/woldeyes_2014.pdf'
+- citation: "**Plate, L; Paxman, RJ; Wiseman, RL**, Kelly JW (2016) Modulating protein quality control, *eLIFE*, in press, co-corresponding author"
+  date: '2016'
+  image: '/static/img/pub/2016PlateCommentary.jpg'
+  pmid: '27435959'
+  pdf: '/static/pdf/publications/2016PlateELIFECommentary.pdf'
   links:
-    - name: David Sivak @ Simon Fraser University
-      url: https://www.sfu.ca/physics/sivakgroup.html
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/466374369317781504
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
 
-- citation: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**.
-Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014."
-  date: '201404'
-  image: '/static/img/pub/keedy_2014.jpg'
-  pmid: '24882744'
-  pmcid: 'PMC4082491'
-  pdf: '/static/pdf/publications/keedy_2014.pdf'
-  pdbs:
-    - 4PSS
-    - 4PST
-    - 4PSY
-    - 4PSZ
-    - 4PTJ
-    - 4P3Q
-    - 4P3R
-    - 4PTH
-  links:
-    - name: Wilson lab @ University of Nebraska-Lincoln
-      url: https://redoxbiologycenter.unl.edu/markwilsonphd
-    - name: Petsko/Ringe lab @ Brandeis University
-      url: http://www.bio.brandeis.edu/prlab/
-    - name: Paper Submission Celebration Photo
-      url: https://twitter.com/fraser_lab/status/443233965017559040
-    - name: F1000 Evaluation
-      url: http://f1000.com/prime/718430130
+- citation: "**Rainbolt, TK; Lebeau, J; Puchades, C; Wiseman, RL** (2016) Reciprocal Degradation of YME1L and OMA1 Adapts Mitochondrial Proteolytic Activity During Stress, *Cell Reports*, 14, 2041-2049."
+  date: '2016'
+  image: '/static/img/pub/2016RainboltCellRep.jpg'
+  pmid: '26923599'
+  pdf: '/static/pdf/publications/2016RainboltCellRep'
 
 - citation: "Eisele, YS, Monteiro, C; Fearns, C; Encalada, SE; **Wiseman, RL**; Powers, ET; Kelly, JW (2015) Targeting Protein Aggregation for the Treatment of Degenerative Diseases, *Nat Rev Drug Discov.*, 14, 759-780."
   date: '201402'
   image: '/static/img/pub/2015EiseleNatRevDrugDisc.jpg'
-  pmid: ' 26338154'
+  pmid: '26338154'
   pdf: '/static/pdf/publications/2015EiseleNatRevDrugDisc.pdf'
   links:
     - name: Kelly Lab @ Scripps Research
