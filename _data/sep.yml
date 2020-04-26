@@ -1,9 +1,9 @@
 - name: Lillian Shallow
-  startdate: Summer 2018,2019
+  enddate: Summer 2018,2019
   current: Undergraduate @ UC-Berkeley
 
 - name: Bryan Seguinot
-  startdate: Summer 2017
+  enddate: Summer 2017
   current: Grad Student @ Harvard
 
 - name: Bianca Nguyen
@@ -11,6 +11,10 @@
   enddate: 2017
   current: Grad Student @ Vanderbilt
 
+- name: Sofia Gonzalez
+  enddate: Summer 2015
+  current: Undergraduate @ Truman State
+
 - name: Rigo Cintron-Colon
-  startdate: Summer 2013
-  current: Undergraduate @ UCLA
+  enddate: Summer 2013
+  current: Grad Student @ Scripps
