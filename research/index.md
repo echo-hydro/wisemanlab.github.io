@@ -6,9 +6,9 @@ group: research
 
 <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
 
-# Our Research  \
+# Our Research  
 
-
+#  
 
 
 
