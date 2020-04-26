@@ -50,11 +50,23 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Shin, M; Puchades, C**; Asmita, A; Adjei, E; **Wiseman, RL**; Karzai, WA; Lander GC (2020) Structural basis for distinct operational modes and protease activation in AAA+ protease Lon, *Science Advances*."
+  date: '2020'
+  image: '/static/img/pub/2020ShinSciAdv.jpg'
+  pmid: ''
+  biorxiv: '617159'
+  pdf: ''
+  links:
+    - name: Lander lab @ Scripps Research
+      url: http://www.lander-lab.com/
+    - name: Karzai lab @ Stony Brook
+      url: https://www.stonybrook.edu/commcms/biochem/research/faculty/karzai/#ResearchInterests
+
 - citation: "**Romine, IC; Wiseman, RL** (2020) Starting at the Beginning: Endoplasmic Reticulum Proteostasis and Systemic Amyloid Disease, *Biochem J*"
   date: '2020'
   image: '/static/img/pub/2020RomineBiochemJ.jpg'
-  pmid:
-  pdf:
+  pmid: ''
+  pdf: ''
   links:
 
 - citation: "Lee, EJ; Chiang, WC; Kroeger, H; Bi, CX; Chao, D; Mastey, RR; Tsang SH; Chea, L; Lambert, SR; **Grandjean JMD**; Baumann, B; Audo, I; Kohl, S; Moore, AT; **Wiseman, RL**; Carroll, J; Lin, JH (2020) Multi-Exon Deletion Alleles of ATF6 Linked to Achromatopsia, *JCI Insight*."
