@@ -235,7 +235,7 @@
   date: '2016'
   image: '/static/img/pub/2016RainboltCellRep.jpg'
   pmid: '26923599'
-  pdf: '/static/pdf/publications/2016RainboltCellRep'
+  pdf: '/static/pdf/publications/2016RainboltCellRep.pdf'
 
 - citation: "Eisele, YS, Monteiro, C; Fearns, C; Encalada, SE; **Wiseman, RL**; Powers, ET; Kelly, JW (2015) Targeting Protein Aggregation for the Treatment of Degenerative Diseases, *Nat Rev Drug Discov.*, 14, 759-780."
   date: '201402'
@@ -346,7 +346,7 @@
   date: '200901'
   image: '/static/img/pub/2013RynoCOCB.jpg'
   pmid: '23647985'
-  pdf: '/static/pdf/publications/2013RynoCurrOpChemBiol'
+  pdf: '/static/pdf/publications/2013RynoCurrOpChemBiol.pdf'
   links:
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
