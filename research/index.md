@@ -6,7 +6,7 @@ group: research
 
 <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
 
-# The Wiseman lab is focused on defining the pathologic and therapeutic implications of stress-responsive signaling pathways in diverse diseases:
+# The Wiseman lab focuses on defining the pathologic and therapeutic implications of stress-responsive signaling pathways for diverse diseases:
 
 
 
