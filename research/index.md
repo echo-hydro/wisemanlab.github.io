@@ -8,7 +8,7 @@ group: research
 
 # The Wiseman lab focuses on defining the pathologic and therapeutic implications of stress-responsive signaling pathways for diverse diseases:
 
-#
+
 
 
 ## What are stress-responsive signaling pathways?
