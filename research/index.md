@@ -1,6 +1,6 @@
 ---
 title: Research in the Wiseman Lab
-layout: default
+layout: research
 group: research
 ---
 
