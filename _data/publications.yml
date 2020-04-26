@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Romine, IC; Wiseman, RL (2020) Starting at the Beginning: Endoplasmic Reticulum Proteostasis and Systemic Amyloid Disease, *Biochem J*"
+- citation: "**Romine, IC; Wiseman, RL** (2020) Starting at the Beginning: Endoplasmic Reticulum Proteostasis and Systemic Amyloid Disease, *Biochem J*"
   date: '2020'
   image: '/static/img/pub/2020RomineBiochemJ.jpg'
   pmid:
