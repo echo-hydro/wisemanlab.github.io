@@ -86,8 +86,8 @@ San Diego, CA 92121
 
 ### The Scripps Research Campus can be reached:  
 * #### by car:
-  * We are located in the The Skaggs Institute (Molecular Biology) building on the Scripps Research campus (see map). Our physical address is Scripps South Driveway, La Jolla, CA 92037. There is a tiered parking lot located in front our building that is available for visitor parking (see map).
-  * If being dropped off (by rideshare), please use Scripps South Driveway, La Jolla, CA 92037 as an address. There is convenient parking circle  to let a passenger out in front of the Molecular Biology building.
+* We are located in the The Skaggs Institute (Molecular Biology) building on the Scripps Research campus (see map). Our physical address is Scripps South Driveway, La Jolla, CA 92037. There is a tiered parking lot located in front our building that is available for visitor parking (see map).
+* If being dropped off (by rideshare), please use Scripps South Driveway, La Jolla, CA 92037 as an address. There is convenient parking circle  to let a passenger out in front of the Molecular Biology building.
 
 ### Once on campus, proceed to the Skaggs Institute (Molecular Biology) building:
 1. You can enter into doors on either side of the building, but you will require key card access. Please call our lab for access.
