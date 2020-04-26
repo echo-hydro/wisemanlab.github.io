@@ -11,19 +11,12 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Lab Phone </h4>
-  tel: 858 784 9586
-
-</div>
-
-<div class="col-md-4">
-
-  <h4>R. Luke Wiseman</h4>
-  Associate Professor  <br>
-  Department of Molecular Medicine  <br>
-  Scripps Research, La Jolla, CA  <br>
-  email: wiseman (at) scripps.edu <br>
-  tel: 858 784 8820
+<h4>R. Luke Wiseman</h4>
+Associate Professor  <br>
+Department of Molecular Medicine  <br>
+Scripps Research, La Jolla, CA  <br>
+email: wiseman (at) scripps.edu <br>
+tel: 858 784 8820
 
 </div>
 
@@ -35,6 +28,13 @@ group: contact
   Scripps Research, La Jolla, CA  <br>
   Email:  khughes (at) scripps.edu  <br>
   Phone: 858 784 7917   <br>
+
+</div>
+
+<div class="col-md-4">
+
+  <h4>Lab Phone </h4>
+  tel: 858 784 9586
 
 </div>
 
