@@ -8,7 +8,6 @@ group: research
 
 # Our Research  
 
-   \n
 
 
 
