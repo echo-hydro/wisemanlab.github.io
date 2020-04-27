@@ -1,5 +1,5 @@
 
-### Our Collaborators
+### Our Collaborators & Friends
 
 
 {% for collaborator in site.data.collaborator %}
