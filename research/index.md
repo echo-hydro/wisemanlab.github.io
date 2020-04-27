@@ -6,7 +6,7 @@ group: research
 
 <img class="img-fluid mx-auto d-block" src="/static/img/WisemanLabResearchBannerv2.jpg" alt="Fraser at UCSF, in molecular form">
 
-# Our Research  
+# Wiseman Lab Research  
 
 
 
