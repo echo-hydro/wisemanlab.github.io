@@ -4,7 +4,7 @@ layout: research
 group: research
 ---
 
-<img class="img-fluid mx-auto d-block" src="/static/img/WisemanLabResearchBanner.jpg" alt="Fraser at UCSF, in molecular form">
+<img class="img-fluid mx-auto d-block" src="/static/img/WisemanLabResearchBannerv2.jpg" alt="Fraser at UCSF, in molecular form">
 
 # Our Research  
 
