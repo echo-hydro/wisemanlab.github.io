@@ -1,5 +1,5 @@
 - name: R. Luke Wiseman
-  image: /static/img/members/lukefish.jpg
+  image: /static/img/members/lukefish2.jpg
   pronouns: he/him/his
   position: Principal Investigator
   email: wiseman (at) scripps.edu
@@ -16,7 +16,7 @@
   XXXXXXXXXXX"
 
 - name: Karen Hughes
-  image: /static/img/members/Karen3.jpg
+  image: /static/img/members/Karen4.jpg
   altimage: /static/img/members/Biel_pb.jpg
   pronouns: she/her/hers
   position: Administrative Assistant
@@ -24,7 +24,7 @@
   description: "Karen runs the show. Anything you need, she gets it done, provided you can get by Cooper. When not in lab, Karen enjoys hiking and clog dancing."
 
 - name: Justine Lebeau, PhD
-  image: /static/img/members/Justine.jpg
+  image: /static/img/members/Justine2.jpg
   altimage: /static/img/members/Chaires_pb.jpg
   pronouns: she/her/hers
   position: Postdoctoral fellow
@@ -43,7 +43,7 @@
   Vivian is supported by a postdoctoral fellowship from the George Hewitt foundation."
 
 - name: Bibiana Rius, PhD
-  image: /static/img/members/Bibi.jpg
+  image: /static/img/members/Bibi2.jpg
   altimage: /static/img/members/Diaz_pb.jpg
   pronouns: she/her/hers
   position: Postdoctoral fellow
@@ -57,7 +57,7 @@
   Bibi is supported by a postdoctoral fellowship from the [Leukemia and Lymphoma Society](https://www.lls.org/)."
 
 - name: Dorian Rosen, PhD
-  image: /static/img/members/Dorianv2.JPG
+  image: /static/img/members/Dorianv3.JPG
   altimage: /static/img/members/Estevam_pb.jpg
   position: Postdoctoral fellow
   pronouns: he/him/his
@@ -69,7 +69,7 @@
   Dorian is supported by a postdoctoral fellowship from the [American Heart Association](https://www.heart.org/)."
 
 - name: Julia Grandjean
-  image: /static/img/members/Julia.jpg
+  image: /static/img/members/Julia2.jpg
   altimage: /static/img/members/Lee_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
@@ -81,7 +81,7 @@
   Julia is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIA](https://www.nia.nih.gov/)."
 
 - name: Belle Romine
-  image: /static/img/members/Belle.jpg
+  image: /static/img/members/Belle2.jpg
   altimage: /static/img/members/Lee_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
@@ -134,7 +134,7 @@
   description: "Jaleh is a Scripps graduate student in the Wiseman lab studying how LECT2 amyloidosis affects the hepatic proteostasis environment. She is also responsible for performing the mass spectrometry experiments for the Wiseman Lab. Initially during her rotation, she worked with Bibiana Rius Ph.D. to study the mechanism of how pharmacologic activators of ATF6 reduce secretion of amyloidogenic light-chain in light-chain (AL) amyloidosis. She earned her bachelor’s degree in Human Biology from the University of California, San Diego. During her undergraduate studies she worked under Supriya Srinivasan Ph.D. at Scripps Research to help study the underlying neuronal mechanisms by which C. elegans regulate peripheral lipid metabolism. After graduating from UCSD, Jaleh joined the lab of Jeffery Kelly Ph.D. at Scripps Research to help define disease biomarkers for Transthyretin-related familial amyloid polyneuropathy patients from Portugal. Outside of lab, Jaleh enjoys rock climbing and playing video games."
 
 - name: Val Perea
-  image: /static/img/members/Val.jpg
+  image: /static/img/members/Val2.jpg
   altimage: /static/img/members/EThompson_pb.jpg
   position: Graduate Student
   pronouns: she/her/hers
@@ -153,7 +153,7 @@
   description: "Albert XXXX."
 
 - name: Lara Ibrahim
-  image: /static/img/members/Lara.jpg
+  image: /static/img/members/Lara2.jpg
   altimage: /static/img/members/Wankowicz_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Bollong lab)
@@ -161,7 +161,7 @@
   description: "Lara XXXXXX."
 
 - name: Caroline Stanton
-  image: /static/img/members/Caroline.jpg
+  image: /static/img/members/Caroline2.jpg
   altimage: /static/img/members/Young_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Bollong lab)
