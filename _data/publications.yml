@@ -52,7 +52,7 @@
 ---
 - citation: "**Shin, M; Puchades, C**; Asmita, A; Adjei, E; **Wiseman, RL**; Karzai, WA; Lander GC (2020) Structural basis for distinct operational modes and protease activation in AAA+ protease Lon, *Science Advances*."
   date: '2020'
-  image: '/static/img/pub/2020ShinSciAdv.jpg'
+  image: '/static/img/pub/2020ShinSciAdv2.jpg'
   pmid: ''
   biorxiv: '617159'
   pdf: ''
@@ -64,7 +64,7 @@
 
 - citation: "**Romine, IC; Wiseman, RL** (2020) Starting at the Beginning: Endoplasmic Reticulum Proteostasis and Systemic Amyloid Disease, *Biochem J*"
   date: '2020'
-  image: '/static/img/pub/2020RomineBiochemJ.jpg'
+  image: '/static/img/pub/2020RomineBiochemJ2.jpg'
   pmid: ''
   pdf: ''
   links:
@@ -92,7 +92,7 @@
 
 - citation: "**Plate, L; Rius, B; Nguyen, B; Genereux, JC**; Kelly, JW; **Wiseman, RL** (2019) Quantitative Interactome Proteomics Reveals a Molecular Basis for ATF6-dependent Regulation of a Destabilized, Amyloidogenic Protein, *Cell Chem Biol*."
   date: '2019'
-  image: '/static/img/pub/2019PlateCellChemBiolv2.jpg'
+  image: '/static/img/pub/2019PlateCellChemBiolv3.jpg'
   pmid: '31105062'
   biorxiv: '381525'
   pdf: '/static/pdf/publications/2019PlateRiusCellChemBiol.pdf'
@@ -111,7 +111,7 @@
 
 - citation: "Glembotski, CC; **Rosarda, JD; Wiseman, RL** (2019) Proteostasis and Beyond: ATF6 in Ischemic Disease, *Trends in Molecular Medicine*."
   date: '2019'
-  image: '/static/img/pub/2019GlembotskiTMM.jpg'
+  image: '/static/img/pub/2019GlembotskiTMM2.jpg'
   pmid: '31078432'
   pdf: '/static/pdf/publications/2019GlembotskietalTrendsMolMed.pdf'
   links:
@@ -137,7 +137,7 @@
 
 - citation: "Blackwood, EA; Azizi, K; Thuerauf, DJ; Paxman, RJ; **Plate, L**; Kelly, JW; **Wiseman, RL**; Glembotski, CC (2019) Pharmacologic ATF6 Activation Confers Global Protection in Widespread Disease Models by Reprogramming Cellular Proteostasis, *Nature Communications*."
   date: '2019'
-  image: '/static/img/pub/2019BlackwoodNatComm.jpg'
+  image: '/static/img/pub/2019BlackwoodNatComm2.jpg'
   pmid: '30643122'
   pdf: '/static/pdf/publications/2019BlackwoodetalNatComm.pdf'
   links:
@@ -181,7 +181,7 @@
 
 - citation: "**Lebeau, J; Saunders JM; Moraes, VWR; Madhavan, A, Madrazo, N; Anthony, MC; Wiseman, RL** (2018) The PERK Arm of the Unfolded Protein Response Regulates Mitochondrial Morphology During Endoplasmic Reticulum Stress, *Cell Reports*, in press."
   date: '2018'
-  image: '/static/img/pub/2018LebeauCellReports.jpg'
+  image: '/static/img/pub/2018LebeauCellReports2.jpg'
   pmid: '29539413'
   pdf: '/static/pdf/publications/2018LebeauCellRep.pdf'
 
@@ -223,7 +223,7 @@
 
 - citation: "**Chen, JJ; Genereux, JC**; Suh, EH; **Vartabedian, VF; Rius, Bibiana; Qu, S**; Dendle, MTA; Kelly, JW; **Wiseman, RL** (2016) Endoplasmic Reticulum Proteostasis Influences the Oligomeric State of an Amyloidogenic Protein Secreted from Mammalian Cells, *Cell Chemical Biology*, 23, 1282-1293."
   date: '2016'
-  image: '/static/img/pub/2016ChenCellChemBiol.jpg'
+  image: '/static/img/pub/2016ChenCellChemBiol2.jpg'
   pmid: '27720586'
   pdf: '/static/pdf/publications/2016ChenCellChemBiol.pdf'
   links:
