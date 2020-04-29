@@ -48,9 +48,6 @@
   pronouns: she/her/hers
   position: Postdoctoral fellow
   email: bibirius (at) scripps.edu
-  scholar: L_OCeG4AAAAJ
-  twitter: robbiediaz_ucsf
-  orcid: 0000-0002-1172-9919
   description: "Bibi XXXX.
 
 
@@ -62,7 +59,6 @@
   position: Postdoctoral fellow
   pronouns: he/him/his
   email: drosen (at) scripps.edu
-  twitter: GabbyEstevam
   description: "Dorian XXXXXXX
 
 
@@ -74,7 +70,6 @@
   pronouns: she/her/hers
   position: Graduate Student
   email: jdendle (at) scripps.edu
-  scholar: vJBNuDUAAAAJ
   description: "Julia XXXX.
 
 
@@ -86,7 +81,6 @@
   pronouns: she/her/hers
   position: Graduate Student
   email: inoxon (at) scripps.edu
-  scholar: vJBNuDUAAAAJ
   description: "Belle earned her Bachelor of Science degree from California Polytechnic State University, SLO, where she worked in the laboratory of Dr. Andres Martinez developing low-cost, point-of-care diagnostics devices.  She later did an internship with the Whitesides Lab at Harvard developing and fabricating 3-dimensional diagnostic devices to detect disease markers. Initially, as a Scripps graduate student, she worked with Wiseman lab postdoctoral fellow, Kai-Chun, to identify the functionality of the tetrameric structure of the extracellular chaperone, ERdj3. Belle is now studying the mechanisms by which cellular stress pathways impact protein folding and extracellular aggregation. She hopes her work will illuminate an area of research that drives new therapeutic approaches for devastating systemic amyloid diseases. When she is not spending her days and nights in the lab accompanied by her partner in science, Buddy the Dog, she enjoys volunteering at her church, painting, cooking, and playing board games.
 
 
@@ -97,12 +91,13 @@
   altimage: /static/img/members/Liu_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Lander lab)
-  email: mshin (at) scripps.edu
-  scholar: 5kUDcJ0AAAAJ
-  description: "Mia XXXXXXX
+  email: miashin (at) scripps.edu
+  twitter: _miashin
+  orcid: 0000-0002-1607-5301
+  description: "Mia is a joint graduate student in the Wiseman and Lander labs at Scripps Research. For her graduate studies, she is using cryo-electron microscopy to understand the molecular underpinnings of ATP-dependent quality control proteases that regulate mitochondrial protein homeostasis. By elucidating high resolution structures of these essential proteins, she hopes to understand the mechanism of how they work in the cell to maintain proteostasis and how they are dysregulated in the context of neurodegenerative disorders such as Alzheimer’s and Parkinson’s disease. She earned Bachelor of Arts degrees in Public Health and Molecular and Cell Biology with an emphasis in Biochemistry from the University of California – Berkeley. As an undergraduate, she was a research assistant in the lab of Dr. Susan Marqusee, where she studied the effects of the ribosome on folding kinetics of a small, single domain protein. Outside of the lab, Mia enjoys running, cooking, baking, and volunteering at her church.
 
 
-  Mia is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)."
+  Mia is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/) and an ARCS foundation fellowship."
 
 - name: Aparajita Madhavan
   image: /static/img/members/Aparajita2.jpg
@@ -110,9 +105,6 @@
   pronouns: she/her/hers
   position: Graduate Student
   email: amadhav (at) scripps.edu
-  scholar: X7mvTacAAAAJ
-  orcid: 0000-0002-0872-0825
-  twitter: jmmichaud
   description: "Aparajita XXXXX."
 
 - name: Jessica Rosarda (and Elsie)
@@ -122,7 +114,10 @@
   position: Graduate Student
   email: jessros (at) scripps.edu
   orcid: 0000-0002-2742-7413
-  description: "Jessica is a graduate student in the Wiseman lab studying the mechanisms by which pharmacologic modulators of ATF6 protect against ischemia / reperfusion injury. Her initial studies focused on neuroprotective mechanisms and she is currently looking at the role of ATF6 in inflammatory signaling. She earned a Bachelor of Science degree from Washington and Lee University, where she studied the population dynamics of Virginia sneezeweed as well as brook trout using genetic markers. She also holds a Master of Science degree in Pharmacy from the University of Florida, which she earned while identifying missing US service members as a forensic DNA analyst at the Armed Forces DNA Identification Laboratory. She later served as the Sequencing Project Coordinator at the National Institutes of Health Sequencing Center. In addition to her graduate studies at Scripps Research, she actively participates in outreach and philanthropy events and brings her dog Elsie to lab most days. Outside of the lab she enjoys boxing and gardening."
+  description: "Jessica is a graduate student in the Wiseman lab studying the mechanisms by which pharmacologic modulators of ATF6 protect against ischemia / reperfusion injury. Her initial studies focused on neuroprotective mechanisms and she is currently looking at the role of ATF6 in inflammatory signaling. She earned a Bachelor of Science degree from Washington and Lee University, where she studied the population dynamics of Virginia sneezeweed as well as brook trout using genetic markers. She also holds a Master of Science degree in Pharmacy from the University of Florida, which she earned while identifying missing US service members as a forensic DNA analyst at the Armed Forces DNA Identification Laboratory. She later served as the Sequencing Project Coordinator at the National Institutes of Health Sequencing Center. In addition to her graduate studies at Scripps Research, she actively participates in outreach and philanthropy events and brings her dog Elsie to lab most days. Outside of the lab she enjoys boxing and gardening.
+
+
+  Jessica is supported by an ARCS foundation fellowship"
 
 - name: Jaleh Mesgarzadeh
   image: /static/img/members/Jaleh.jpeg
@@ -130,7 +125,6 @@
   position: Graduate Student
   pronouns: she/her/hers
   email: jmesgarz (at) scripps.edu
-  orcid: 0000-0002-2370-9720
   description: "Jaleh is a Scripps graduate student in the Wiseman lab studying how LECT2 amyloidosis affects the hepatic proteostasis environment. She is also responsible for performing the mass spectrometry experiments for the Wiseman Lab. Initially during her rotation, she worked with Bibiana Rius Ph.D. to study the mechanism of how pharmacologic activators of ATF6 reduce secretion of amyloidogenic light-chain in light-chain (AL) amyloidosis. She earned her bachelor’s degree in Human Biology from the University of California, San Diego. During her undergraduate studies she worked under Supriya Srinivasan Ph.D. at Scripps Research to help study the underlying neuronal mechanisms by which C. elegans regulate peripheral lipid metabolism. After graduating from UCSD, Jaleh joined the lab of Jeffery Kelly Ph.D. at Scripps Research to help define disease biomarkers for Transthyretin-related familial amyloid polyneuropathy patients from Portugal. Outside of lab, Jaleh enjoys rock climbing and playing video games."
 
 - name: Val Perea
@@ -139,7 +133,7 @@
   position: Graduate Student
   pronouns: she/her/hers
   email: vperea (at) scripps.edu
-  description: "Val XXXX.
+  description: "Valerie earned a Bachelor of Science at the University of New Mexico where she researched modified cyclodextrins as combined chemotherapy and gene therapy delivery tools in the lab of Lina Cui. During her undergrad she was a SURF intern in the lab of Katja Lamia at TSRI and investigated circadian rhythm proteins and their role in regulating the degradation of proto-onco-proteins. After her undergrad she returned to Scripps and is a graduate student in the Wiseman lab studying the effects of PERK-dependent translational attenuation on mitochondrial biology. She hopes that her work will reveal the role of PERK regulation of mitochondria in disease pathology. Outside of the lab she enjoys playing piano, writing, and spending time with friends and family.
 
 
   Val is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)."
