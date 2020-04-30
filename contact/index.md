@@ -39,7 +39,8 @@ tel: 858 784 8820
 </div>
 
 </div>
-
+<br>
+<hr>
 # Directions to the Wiseman Lab
 
 <div class="row">
