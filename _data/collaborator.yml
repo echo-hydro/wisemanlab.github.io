@@ -2,34 +2,37 @@
   url: http://www.lander-lab.com/
 
 - name: Bollong lab @ Scripps Research
-  url:
+  url: https://www.bollong.scripps.edu/
 
 - name: Kelly lab @ Scripps Research
-  url:
+  url: https://www.scripps.edu/kelly/
 
 - name: Saez lab @ Scripps Research
-  url:
+  url: https://www.scripps.edu/saez/lab_members.html
 
 - name: Grotjahn lab @ Scripps Research
-  url:
+  url: https://grotjahnlab.org/
 
 - name: Balch lab @ Scripps Research
-  url:
+  url: https://www.scripps.edu/balch/
 
 - name: Molecular Screening Center @ Scripps Research-FL
-  url:
+  url: https://hts.florida.scripps.edu/
+
+- name: Glembotski lab @ SDSU
+  url: http://www.bio.sdsu.edu/Pub/glembotski/
 
 - name: Lin lab @ UCSD
-  url:
+  url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
 
 - name: Murphy lab @ Boston University
-  url:
+  url: http://murphylaboratory.com/
 
 - name: Haynes lab @ UMass Med School
-  url:
+  url: https://www.umassmed.edu/mccb/hayneslab/
 
 - name: Gestwicki lab @ UCSF
-  url:
+  url: https://gestwickilab.ucsf.edu/
 
 - name: Hetz lab @ U. Chile
-  url:
+  url: http://www.hetzlab.cl/
