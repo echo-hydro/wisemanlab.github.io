@@ -17,7 +17,6 @@
 
 - name: Karen Hughes
   image: /static/img/members/Karen4.jpg
-  altimage: /static/img/members/Biel_pb.jpg
   pronouns: she/her/hers
   position: Administrative Assistant
   email: khughes (at) scripps.edu
@@ -28,7 +27,6 @@
 
 - name: Justine Lebeau, PhD
   image: /static/img/members/Justine2.jpg
-  altimage: /static/img/members/Chaires_pb.jpg
   pronouns: she/her/hers
   position: Postdoctoral fellow
   email: jlebeau (at) scripps.edu
@@ -36,7 +34,6 @@
 
 - name: Vivian Dolina, PhD
   image: /static/img/members/Vivian2.jpg
-  altimage: /static/img/members/Correy_pb.jpg
   pronouns: she/her/hers
   position: Postdoctoral fellow
   email: vmoraes (at) scripps.edu
@@ -47,7 +44,6 @@
 
 - name: Bibiana Rius, PhD
   image: /static/img/members/Bibi2.jpg
-  altimage: /static/img/members/Diaz_pb.jpg
   pronouns: she/her/hers
   position: Postdoctoral fellow
   email: bibirius (at) scripps.edu
@@ -58,7 +54,6 @@
 
 - name: Dorian Rosen, PhD
   image: /static/img/members/Dorianv3.jpg
-  altimage: /static/img/members/Estevam_pb.jpg
   position: Postdoctoral fellow
   pronouns: he/him/his
   email: drosen (at) scripps.edu
@@ -69,7 +64,6 @@
 
 - name: Julia Grandjean
   image: /static/img/members/Julia2.jpg
-  altimage: /static/img/members/Lee_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
   email: jdendle (at) scripps.edu
@@ -80,7 +74,6 @@
 
 - name: Belle Romine
   image: /static/img/members/Belle2.jpg
-  altimage: /static/img/members/Lee_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
   email: inoxon (at) scripps.edu
@@ -91,7 +84,6 @@
 
 - name: Mia Shin
   image: /static/img/members/Mia.jpeg
-  altimage: /static/img/members/Liu_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Lander lab)
   email: miashin (at) scripps.edu
@@ -104,7 +96,6 @@
 
 - name: Aparajita Madhavan
   image: /static/img/members/Aparajita2.jpg
-  altimage: /static/img/members/Michaud_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
   email: amadhav (at) scripps.edu
@@ -113,7 +104,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Jessica Rosarda (and Elsie)
   image: /static/img/members/JessicaElsie.jpeg
-  altimage: /static/img/members/Pellegrino_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student
   email: jessros (at) scripps.edu
@@ -125,7 +115,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Jaleh Mesgarzadeh
   image: /static/img/members/Jaleh.jpeg
-  altimage: /static/img/members/Roe_pb.jpg
   position: Graduate Student
   pronouns: she/her/hers
   email: jmesgarz (at) scripps.edu
@@ -133,7 +122,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Val Perea
   image: /static/img/members/Val2.jpg
-  altimage: /static/img/members/EThompson_pb.jpg
   position: Graduate Student
   pronouns: she/her/hers
   email: vperea (at) scripps.edu
@@ -144,7 +132,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Albert Song
   image: /static/img/members/Albert2.jpg
-  altimage: /static/img/members/MThompson_pb.jpg
   position: Graduate Student (with Lander lab)
   pronouns: he/him/his
   email: asong (at) scripps.edu
@@ -152,7 +139,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Lara Ibrahim
   image: /static/img/members/Lara2.jpg
-  altimage: /static/img/members/Wankowicz_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Bollong lab)
   email: librahim (at) scripps.edu
@@ -160,7 +146,6 @@ Outside of lab, she loves doing yoga, swing dancing, playing board games, and on
 
 - name: Caroline Stanton
   image: /static/img/members/Caroline2.jpg
-  altimage: /static/img/members/Young_pb.jpg
   pronouns: she/her/hers
   position: Graduate Student (with Bollong lab)
   email: cstanton (at) scripps.edu
