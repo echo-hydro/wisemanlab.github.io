@@ -27,7 +27,7 @@ tel: 858 784 8820
   Department of Molecular Medicine <br>
   Scripps Research, La Jolla, CA  <br>
   Email:  khughes (at) scripps.edu  <br>
-  Phone: 858 784 7917   <br>
+  tel: 858 784 7917   <br>
 
 </div>
 
