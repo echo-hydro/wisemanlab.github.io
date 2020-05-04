@@ -8,6 +8,7 @@
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
 {% if alum.startdate %} {{alum.startdate}} - {% endif %}{{alum.enddate}} <br>
 Subsequent Position: {{alum.current}} </p>
+<p><a href="{{alum.lab}}">{{alum.current}}</a></p>
 </div> {% endfor %}
 
 <br>
