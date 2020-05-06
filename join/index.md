@@ -6,9 +6,9 @@ group: join
 
 # Graduate Students
 
-Scripps students apply to a single [graduate program](https://education.scripps.edu/graduate/about-the-graduate-school/) and do not apply directly to labs. During the first year of a PhD program, Scripps students can rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students per year. 
+Scripps students apply to a single [graduate program](https://education.scripps.edu/graduate/about-the-graduate-school/) and do not apply directly to labs. During the first year of a PhD program, Scripps students can rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students per year.
 
-Students joining the Wiseman lab come from diverse scientific backgrounds including structural biology, chemistry, cell biology, and computational biology. We are specifically looking for motivated, hard working students that bring new perspectives to the group and facilitate our every expanding scientific interests.
+Students joining the Wiseman lab come from diverse scientific backgrounds including structural biology, chemistry, cell biology, and computational biology. We are specifically looking for motivated, hard working students that bring new perspectives to the group and facilitate our ever expanding scientific interests.
 
 
 # Postdoctoral Fellows
