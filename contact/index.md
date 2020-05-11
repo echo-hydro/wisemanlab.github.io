@@ -26,7 +26,7 @@ tel: 858 784 8820
   Administrative Assistant <br>
   Department of Molecular Medicine <br>
   Scripps Research, La Jolla, CA  <br>
-  Email:  khughes (at) scripps.edu  <br>
+  email:  khughes (at) scripps.edu  <br>
   tel: 858 784 7917   <br>
 
 </div>
