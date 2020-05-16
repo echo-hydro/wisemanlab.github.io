@@ -173,6 +173,7 @@
 - citation: "Giadone, RM; Liberti, DC; Matte, TM; **Rosarda, JD**; Torress-Arancivia, C; Ghosh, S; Diedruch, JK; Pankow, S; Skvir, N; Yates, III, JR; Wilson, AA; Connors, LH; Kotton, DN; **Wiseman, RL**; Murphy, GJ (2018) Amyloidogenic Proteins Drive Hepatic Proteosatsis Remodeling in an Induced Pluripotent Stem Cell Model of Systemic Amyloid Disease, *bioRXIV*"
   date: '2018'
   image: '/static/img/pub/2018GiadonebioRXIV.png'
+  biorxiv: '358515'
   pdf: '/static/pdf/publications/2018GiadonebioRXIV2.pdf'
   links:
     - name: Murphy lab @ Boston University
