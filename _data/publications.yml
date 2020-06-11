@@ -52,10 +52,19 @@
 ---
 - citation: "**Rius, B; Mesgarzadeh, JS; Romine, IC**; Paxman, RJ; Kelly, JW **Wiseman, RL** (2020) Small Molecule ER Proteostasis Regulators Reduce Amyloidogenic Immunoglobulin Light Chain Secretion Through an On-Target, ATF6-Independent Mechanism, *bioRXIV*."
   date: '2020'
-  image: '/static/img/pub/2020RiusbioRXIV.png'
-  biorxiv: '098145'
+  image: '/static/img/pub/2020HetzIGF2.png'
+  biorxiv: '119164'
   pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
   links:
+
+- citation: "Garcia-Huerta, P; Troncoso-Escudero, P; Wu, D; Thiruvalluvan, A; Cisternas, M; Henriquez, DR; **Plate, L**; Chana-Cyevas, P; Saquel, C; Thielen, P; Longo, KA; Geddes, BJ; Lederkremer, GL; Sharma, N; Shenkman, M; Naphade, S; Ellerby, LM; Sardi, P; Spichiger, C; Richter, HG; Court, FA; **Wiseman, RL**; Gonzalez-Billault, C; Bergink, S; Vidal, RL; Hetz, C (2020) Insulin-like Growth Factor 2 (IGF2) Protects Against Huntington's Disease Through the Extracellular Deposition of Protein Aggregates, *bioRXIV*."
+  date: '2020'
+  image: '/static/img/pub/2020RiusbioRXIV.png'
+  biorxiv: '098145'
+  pdf: '/static/pdf/publications/2020HetzIG2biorxiv.pdf'
+  links:
+    - name: Hetz lab @ University of Chile
+      url: http://www.hetzlab.cl/
 
 - citation: "**Shin, M; Puchades, C**; Asmita, A; Adjei, E; **Wiseman, RL**; Karzai, WA; Lander GC (2020) Structural Basis for Distinct Operational Modes and Protease Activation in AAA+ Protease Lon, *Science Advances*."
   date: '2020'
