@@ -57,7 +57,7 @@
   pdf:
   links:
 
-- citation: "*Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW, **Wiseman, RL (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
+- citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW, **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
   date: '2020'
   image: '/static/img/pub/2020RiusbioRXIV.png'
   biorxiv: '2020.05.15.098145'
