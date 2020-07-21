@@ -53,9 +53,11 @@
 - citation: "**Grandjean, JMD; Madhavan, A; Cech, L; Seguinot, BO**; Paxman, RJ; Smith, E; Scampavia,L; Powers, ET; **Cooley, CB; Plate, L**; Spicer, TP; Kelly, JW; **Wiseman,RL** (2020) Pharmacologic IRE1/XBP1s Activation Confers Targeted ER Proteostasis Reprogramming, *Nat Chem Biol*"
   date: '2020'
   image: '/static/img/pub/2020GrandjeanNatChemBio2.png'
-  pmid:
+  pmid: '32690944'
   pdf:
   links:
+    - name: Scripps Research Institute Molecule Screening Center
+      url: https://hts.florida.scripps.edu/index.html
 
 - citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
   date: '2020'
