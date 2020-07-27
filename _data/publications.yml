@@ -58,6 +58,8 @@
   links:
     - name: Scripps Research Institute Molecule Screening Center
       url: https://hts.florida.scripps.edu/index.html
+    - name: Commentary in Nature Chemical Biology
+      url: https://pubmed.ncbi.nlm.nih.gov/32704180/
 
 - citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
   date: '2020'
