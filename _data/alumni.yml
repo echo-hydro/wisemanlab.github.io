@@ -1,14 +1,14 @@
-- name: Justine Lebeau, PhD
-  position: Postdoctoral Fellow
-  startdate: 2015
-  enddate: 2020
-  current: Research Scienist, Bristol-Meyers-Squibb
-
 - name: Cristina Puchades, PhD
   position: Graduate student (with Lander lab)
   startdate: 2015
   enddate: 2019
   current: Postdoctoral Fellow - Cheng lab @ UCSF
+
+- name: Justine Lebeau, PhD
+  position: Postdoctoral Fellow
+  startdate: 2015
+  enddate: 2020
+  current: Research Scienist, Bristol-Meyers-Squibb  
 
 - name: Lauren Cech
   position: Post-bac
