@@ -50,13 +50,6 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
-  date: '2020'
-  image: '/static/img/pub/2020RiusbioRXIV.png'
-  biorxiv: '2020.05.15.098145'
-  pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
-  links:
-
 - citation: "**Grandjean, JMD; Madhavan, A; Cech, L; Seguinot, BO**; Paxman, RJ; Smith, E; Scampavia,L; Powers, ET; **Cooley, CB; Plate, L**; Spicer, TP; Kelly, JW; **Wiseman,RL** (2020) Pharmacologic IRE1/XBP1s Activation Confers Targeted ER Proteostasis Reprogramming, *Nat Chem Biol*"
   date: '2020'
   image: '/static/img/pub/2020GrandjeanNatChemBio2.png'
@@ -66,7 +59,14 @@
     - name: Scripps Research Institute Molecule Screening Center
       url: https://hts.florida.scripps.edu/index.html
     - name: Commentary in Nature Chemical Biology
-      url: https://www.nature.com/articles/s41589-020-0616-8    
+      url: https://www.nature.com/articles/s41589-020-0616-8
+
+- citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
+  date: '2020'
+  image: '/static/img/pub/2020RiusbioRXIV.png'
+  biorxiv: '2020.05.15.098145'
+  pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
+  links: 
 
 - citation: "Giadone, RM; Liberti, DC; Matte, TM; **Rosarda, JD**; Torress-Arancivia, C; Ghosh, S; Diedrich, JK; Pankow, S; Skvir, N; Yates, III, JR; Wilson, AA; Connors, LH; Kotton, DN; **Wiseman, RL**; Murphy, GJ (2020) Expression of Amyloidogenic Transthyretin Drives Hepatic Proteostasis Remodeling in an Induced Pluripotent Stem Cell Model of Systemic Amyloid Disease, *Stem Cell Reports*"
   date: '2020'
