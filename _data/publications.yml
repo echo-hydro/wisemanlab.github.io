@@ -61,12 +61,21 @@
     - name: Commentary in Nature Chemical Biology
       url: https://www.nature.com/articles/s41589-020-0616-8
 
+- citation: "Kirak, O; Ke, E; Yang, JY; Schwarz, A; **Plate, L**; Nham, A; Abadejos, JR; Valencia, A; **Wiseman, RL**; Lui, KO; Ku, M (2020) Premature Activation of Immune Transcripiton Programs in Autoimmune-Predisposed Mouse Embryonic Stem Cells and Blastocysts, *Int J Mol Sci*"
+  date: '2020'
+  image: '/static/img/pub/2020KirakIJMS.png'
+  pmid:
+  pdf:
+  links:
+    - name: Kirak Lab @ Freiburg
+      url: https://www.research-for-children.de/groups/kirak/
+
 - citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
   date: '2020'
   image: '/static/img/pub/2020RiusbioRXIV.png'
   biorxiv: '2020.05.15.098145'
   pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
-  links: 
+  links:
 
 - citation: "Giadone, RM; Liberti, DC; Matte, TM; **Rosarda, JD**; Torress-Arancivia, C; Ghosh, S; Diedrich, JK; Pankow, S; Skvir, N; Yates, III, JR; Wilson, AA; Connors, LH; Kotton, DN; **Wiseman, RL**; Murphy, GJ (2020) Expression of Amyloidogenic Transthyretin Drives Hepatic Proteostasis Remodeling in an Induced Pluripotent Stem Cell Model of Systemic Amyloid Disease, *Stem Cell Reports*"
   date: '2020'
