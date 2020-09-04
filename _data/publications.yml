@@ -50,6 +50,13 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Grandjean, JMD; Wiseman, RL** (2020) Small molecule strategies to harness the unfolded protein response: where do we go from here?, *J Biol Chem*"
+  date: '2020'
+  image: '/static/img/pub/2020GrandjeanJBC.png'
+  pmid:
+  pdf:
+  links:
+
 - citation: "**Grandjean, JMD; Madhavan, A; Cech, L; Seguinot, BO**; Paxman, RJ; Smith, E; Scampavia,L; Powers, ET; **Cooley, CB; Plate, L**; Spicer, TP; Kelly, JW; **Wiseman,RL** (2020) Pharmacologic IRE1/XBP1s Activation Confers Targeted ER Proteostasis Reprogramming, *Nat Chem Biol*"
   date: '2020'
   image: '/static/img/pub/2020GrandjeanNatChemBio2.png'
