@@ -99,7 +99,7 @@
   image: '/static/img/pub/2020HetzIGF2.png'
   pmid: '32642868'
   biorxiv: '2020.05.28.119164'
-  pdf: '/static/pdf/publications/2020HetzIG2biorxiv.pdf'
+  pdf: '/static/pdf/publications/2020HetzIGF2biorxiv.pdf'
   links:
     - name: Hetz lab @ University of Chile
       url: http://www.hetzlab.cl/
