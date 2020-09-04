@@ -61,7 +61,7 @@
   date: '2020'
   image: '/static/img/pub/2020GrandjeanNatChemBio2.png'
   pmid: '32690944'
-  pdf:
+  pdf: 'https://www.nature.com/articles/s41589-020-0584-z.pdf'
   links:
     - name: Scripps Research Institute Molecule Screening Center
       url: https://hts.florida.scripps.edu/index.html
@@ -72,7 +72,7 @@
   date: '2020'
   image: '/static/img/pub/2020KirakIJMS.png'
   pmid: '32796510'
-  pdf:
+  pdf: 'https://www.mdpi.com/1422-0067/21/16/5743/htm'
   links:
     - name: Kirak Lab @ Freiburg
       url: https://www.research-for-children.de/groups/kirak/
