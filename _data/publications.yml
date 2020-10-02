@@ -266,7 +266,7 @@
   pmid: '28647092'
   pdf: '/static/pdf/publications/2017PlateTrendsCellBiol.pdf'
 
-- citation: "**Chen, KC; Qu, S**; Chowdury, S; Noxon, IC; Schonhoft, JD; **Plate, L**; Powers, ET; Kelly, JW; Lander, GC; **Wiseman, RL** (2017) The Endoplasmic Reticulum HSP40 Co-chaperone ERdj3/DNAJB11 Assembles and Functions as a Tetramer, *EMBO J*, 36, 2296-2309."
+- citation: "**Chen, KC; Qu, S**; Chowdury, S; **Noxon, IC**; Schonhoft, JD; **Plate, L**; Powers, ET; Kelly, JW; Lander, GC; **Wiseman, RL** (2017) The Endoplasmic Reticulum HSP40 Co-chaperone ERdj3/DNAJB11 Assembles and Functions as a Tetramer, *EMBO J*, 36, 2296-2309."
   date: '2017'
   image: '/static/img/pub/2017EMBOJ.jpg'
   pmid: '28655754'
