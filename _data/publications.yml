@@ -50,6 +50,17 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2020) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *bioRxiv*"
+  date: '2020'
+  image: '/static/img/pub/2020KroegerbioRXIV.jpg'
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Jonathan Lin's Lab @ Stanford
+      url: https://profiles.stanford.edu/216141
+    - name: Heike Kroeger @ Georgia
+      url: https://cellbio.uga.edu/directory/people/heike-kroeger
+
 - citation: "**Grandjean, JMD; Wiseman, RL** (2020) Small molecule strategies to harness the unfolded protein response: where do we go from here?, *J Biol Chem*"
   date: '2020'
   image: '/static/img/pub/2020GrandjeanJBC.png'
