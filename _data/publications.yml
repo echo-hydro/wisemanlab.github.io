@@ -53,8 +53,8 @@
 - citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2020) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *bioRxiv*"
   date: '2020'
   image: '/static/img/pub/2020KroegerbioRXIV.jpg'
-  biorxiv: ''
-  pdf: ''
+  biorxiv: '2020.10.04.325019'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.10.04.325019v1.full.pdf'
   links:
     - name: Jonathan Lin's Lab @ Stanford
       url: https://profiles.stanford.edu/216141
