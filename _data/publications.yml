@@ -50,6 +50,15 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Ibrahim, L; Mesgarzadeh, J**; Xu, I; Powers, ET; **Wiseman, RL**; Bollong, MJ (2020) Defining the Functional Targets of Cap’n’Collar Transcription Factors NRF1, NRF2, and NRF3, submitted"
+  date: '2020'
+  image: '/static/img/pub/2020IbrahimAntioxidant.png'
+  biorxiv:
+  pdf:
+  links:
+    - name: Bollong Lab @ Scripps
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2020) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *bioRxiv*"
   date: '2020'
   image: '/static/img/pub/2020KroegerbioRXIV.jpg'
