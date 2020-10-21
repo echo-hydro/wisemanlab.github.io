@@ -54,7 +54,7 @@
   date: '2020'
   image: '/static/img/pub/2020IbrahimAntioxidant.png'
   biorxiv:
-  pdf:
+  pdf:'https://www.mdpi.com/2076-3921/9/10/1025/htm'
   links:
     - name: Bollong Lab @ Scripps
       url: https://www.bollong.scripps.edu/
