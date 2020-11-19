@@ -50,9 +50,20 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Vidal, RL; Gonzalez, C; **Plate**, L; Jerez, C; Canovas, J; Garcia-Huerta, P; Toncoso-Escudero, P; Rivera, C; Castillo, V; Sepulveda, D; Leal, S; Martin, A; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *bioRxiv*"
+  date: '2020'
+  image: '/static/img/pub/2020VidalMolTher.png'
+  pmid:
+  biorxiv: '2020.11.17.387480'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.17.387480v1.full.pdf'
+  links:
+    - name: Hetz lab @ University of Chile
+      url: http://www.hetzlab.cl/
+
 - citation: "**Ibrahim, L; Mesgarzadeh, J**; Xu, I; Powers, ET; **Wiseman, RL**; Bollong, MJ (2020) Defining the Functional Targets of Cap’n’Collar Transcription Factors NRF1, NRF2, and NRF3, *Antioxidants*"
   date: '2020'
   image: '/static/img/pub/2020IbrahimAntioxidant.png'
+  pmid:'33096892'
   biorxiv:
   pdf: 'https://www.mdpi.com/2076-3921/9/10/1025/htm'
   links:
