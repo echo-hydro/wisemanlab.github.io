@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL**; Lander, GC (2020) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, bioRxiv. *Co-corresponding author."
+  date: '2020'
+  image: '/static/img/pub/2020ShinhLON.png'
+  pmid:
+  biorxiv: '2020.11.23.394858'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394858v1.full.pdf'
+  links:
+    - name: Lander lab @ Scripps Research
+      url: http://www.lander-lab.com/
+
 - citation: "Vidal, RL; Gonzalez, C; **Plate, L**; Jerez, C; Canovas, J; Garcia-Huerta, P; Toncoso-Escudero, P; Rivera, C; Castillo, V; Sepulveda, D; Leal, S; Martin, A; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *bioRxiv*"
   date: '2020'
   image: '/static/img/pub/2020VidalMolTherv2.png'
