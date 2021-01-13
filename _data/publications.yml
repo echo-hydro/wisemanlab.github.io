@@ -50,6 +50,13 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) Pharmacologic Targeting of Plasma Cell Endoplasmic Reticulum Proteostasis to Reduce Amyloidogenic Light Chain Secretion, *Blood Advances*"
+  date: '2021'
+  image: '/static/img/pub/2020RiusbioRXIVv2.png'
+  biorxiv: '2020.05.15.098145'
+  pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
+  links:
+
 - citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2020) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *bioRxiv*. *Co-corresponding author."
   date: '2020'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
@@ -127,13 +134,6 @@
   links:
     - name: Kirak Lab @ Freiburg
       url: https://www.research-for-children.de/groups/kirak/
-
-- citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2020) ER Proteostasis Regulators Reduce Amyloidogenic Light Chain Secretion Through an On-target ATF6-Independent Mechanism, *bioRxiv*"
-  date: '2020'
-  image: '/static/img/pub/2020RiusbioRXIVv2.png'
-  biorxiv: '2020.05.15.098145'
-  pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
-  links:
 
 - citation: "Giadone, RM; Liberti, DC; Matte, TM; **Rosarda, JD**; Torress-Arancivia, C; Ghosh, S; Diedrich, JK; Pankow, S; Skvir, N; Yates, III, JR; Wilson, AA; Connors, LH; Kotton, DN; **Wiseman, RL**; Murphy, GJ (2020) Expression of Amyloidogenic Transthyretin Drives Hepatic Proteostasis Remodeling in an Induced Pluripotent Stem Cell Model of Systemic Amyloid Disease, *Stem Cell Reports*"
   date: '2020'
