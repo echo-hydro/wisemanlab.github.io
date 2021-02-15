@@ -57,6 +57,16 @@
   pdf: '/static/pdf/publications/2020RiusbioRXIV.pdf'
   links:
 
+- citation: "Vidal, RL; Sepulveda, D; Tronscoso-Escudero, P; Garcia-Huerta, P; Gonzalez, C; **Plate, L**; Jerez, C; Canovas, J;  Rivera, C; Castillo, V; Cisternas, M; Leal, S; Martin, A; **Grandjean, JMD**; Lashuel, HA; Martins, AJM; Latapioa, V; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *Molecular Therapy*"
+  date: '2021'
+  image: '/static/img/pub/2020VidalMolTherv2.png'
+  pmid: '33545358'
+  biorxiv: '2020.11.17.387480'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.17.387480v1.full.pdf'
+  links:
+    - name: Hetz lab @ University of Chile
+      url: http://www.hetzlab.cl/
+
 - citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2020) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *bioRxiv*. *Co-corresponding author."
   date: '2020'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
@@ -76,16 +86,6 @@
   links:
     - name: Lander lab @ Scripps Research
       url: http://www.lander-lab.com/
-
-- citation: "Vidal, RL; Sepulveda, D; Tronscoso-Escudero, P; Garcia-Huerta, P; Gonzalez, C; **Plate, L**; Jerez, C; Canovas, J;  Rivera, C; Castillo, V; Cisternas, M; Leal, S; Martin, A; **Grandjean, JMD**; Lashuel, HA; Martins, AJM; Latapioa, V; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *Molecular Therapy*"
-  date: '2020'
-  image: '/static/img/pub/2020VidalMolTherv2.png'
-  pmid: '33545358'
-  biorxiv: '2020.11.17.387480'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.17.387480v1.full.pdf'
-  links:
-    - name: Hetz lab @ University of Chile
-      url: http://www.hetzlab.cl/
 
 - citation: "**Ibrahim, L; Mesgarzadeh, J**; Xu, I; Powers, ET; **Wiseman, RL**; Bollong, MJ (2020) Defining the Functional Targets of Cap’n’Collar Transcription Factors NRF1, NRF2, and NRF3, *Antioxidants*"
   date: '2020'
