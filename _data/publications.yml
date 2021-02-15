@@ -77,7 +77,7 @@
     - name: Lander lab @ Scripps Research
       url: http://www.lander-lab.com/
 
-- citation: "Vidal, RL; Gonzalez, C; **Plate, L**; Jerez, C; Canovas, J; Garcia-Huerta, P; Toncoso-Escudero, P; Rivera, C; Castillo, V; Sepulveda, D; Leal, S; Martin, A; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *bioRxiv*"
+- citation: "Vidal, RL; Gonzalez, C; **Plate, L**; Jerez, C; Canovas, J; Garcia-Huerta, P; Toncoso-Escudero, P; Rivera, C; Castillo, V; Sepulveda, D; Leal, S; Martin, A; Matus, S; Sardi,P; **Wiseman, RL**; Hetz, C (2020) Enforced Dimerization between XBP1s and ATF6f Enhances the Protective Effects of the Unfolded Protein Response (UPR) in Models of Neurodegeneration, *Molecular Therapy*"
   date: '2020'
   image: '/static/img/pub/2020VidalMolTherv2.png'
   pmid:
