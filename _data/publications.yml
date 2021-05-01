@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL**; Lander, GC (2020) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nat Communications*. *Co-corresponding author."
+  date: '2021'
+  image: '/static/img/pub/2020ShinhLON3.png'
+  pmid:
+  biorxiv: '2020.11.23.394858'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394858v1.full.pdf'
+  links:
+    - name: Lander lab @ Scripps Research
+      url: http://www.lander-lab.com/
+
 - citation: "**Rius, B; Mesgarzadeh, J; Romine, IC**; Paxman, RJ; Kelly, JW; **Wiseman, RL** (2021) Pharmacologic Targeting of Plasma Cell Endoplasmic Reticulum Proteostasis to Reduce Amyloidogenic Light Chain Secretion, *Blood Advances*"
   date: '2021'
   image: '/static/img/pub/2020RiusbioRXIVv2.png'
@@ -77,16 +87,6 @@
   links:
     - name: Saez lab @ Scripps Research
       url: https://www.scripps.edu/saez/overview.html
-
-- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL**; Lander, GC (2020) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *bioRxiv*. *Co-corresponding author."
-  date: '2020'
-  image: '/static/img/pub/2020ShinhLON3.png'
-  pmid:
-  biorxiv: '2020.11.23.394858'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394858v1.full.pdf'
-  links:
-    - name: Lander lab @ Scripps Research
-      url: http://www.lander-lab.com/
 
 - citation: "**Ibrahim, L; Mesgarzadeh, J**; Xu, I; Powers, ET; **Wiseman, RL**; Bollong, MJ (2020) Defining the Functional Targets of Cap’n’Collar Transcription Factors NRF1, NRF2, and NRF3, *Antioxidants*"
   date: '2020'
