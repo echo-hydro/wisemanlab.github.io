@@ -50,6 +50,17 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+
+- citation: "**Rosarda, JD; Baron, KR**; Nutsch, K; Bollong, MJ; **Wiseman, RL** (2021) Metabolically Activated Proteostasis Regulators Protect Against Glutamate Toxicity by Activating NRF2, *bioRxiv*."
+  date: '2021'
+  image: '/static/img/pub/2021RosardabioRXIV.jpg'
+  pmid:
+  biorxiv: '2021.06.29.450364'
+  pdf: '2021RosardabioRXIV.pdf'
+  links:
+    - name: Bollong Lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL**; Lander, GC (2021) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nat Communications*. *Co-corresponding author."
   date: '2021'
   image: '/static/img/pub/2020ShinhLON3.png'
