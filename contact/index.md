@@ -12,7 +12,7 @@ group: contact
 <div class="col-md-4">
 
 <h4>R. Luke Wiseman</h4>
-Associate Professor  <br>
+Professor  <br>
 Department of Molecular Medicine  <br>
 Scripps Research, La Jolla, CA  <br>
 email: wiseman (at) scripps.edu <br>
