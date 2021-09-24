@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2021) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *bioRxiv*"
+- citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2021) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *PNAS*"
   date: '2021'
   image: '/static/img/pub/2020KroegerbioRXIV.jpg'
   biorxiv: '2020.10.04.325019'
