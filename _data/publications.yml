@@ -53,6 +53,7 @@
 - citation: "Kroeger, H; **Grandjean, JMD**; Chiang, WCJ; Bindels, D; Mastey, R; Okalova, J; Nguyen, A; Powers, ET; Kelly, JW; Grimsey, NJ; Michaelides, M; Carroll, J; **Wiseman, RL**; Lin, JH (2021) The Endoplasmic Reticulum Proteostasis Regulator ATF6 is Essential for Human Cone Photoreceptor Development, *PNAS*"
   date: '2021'
   image: '/static/img/pub/2020KroegerbioRXIV.jpg'
+  pmid: '34561305'
   biorxiv: '2020.10.04.325019'
   pdf: 'https://www.biorxiv.org/content/10.1101/2020.10.04.325019v1.full.pdf'
   links:
@@ -64,7 +65,6 @@
 - citation: "**Rosarda, JD; Baron, KR**; Nutsch, K; Bollong, MJ; **Wiseman, RL** (2021) Metabolically Activated Proteostasis Regulators Protect Against Glutamate Toxicity by Activating NRF2, *bioRxiv*."
   date: '2021'
   image: '/static/img/pub/2021RosardabioRXIV.png'
-  pmid:
   biorxiv: '2021.06.29.450364'
   pdf: '2021RosardaioRXIV.pdf'
   links:
