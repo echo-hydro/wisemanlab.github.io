@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Yang, J+; **Song, A+**; Lander, GC; **Wiseman, RL (2021) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *bioRxiv*, +Co-first authors, *Co-corresponding author"
+  date: '2021'
+  image: '/static/img/pub/2021SongbioRXIV.png'
+  pmid:
+  biorxiv: '2021.11.24.469940'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2021.11.24.469940v1.full.pdf'
+  links:
+    - name: Lander Lab @ Scripps Research
+      url: http://www.lander-lab.com/
+
 - citation: "**Rosarda, JD; Baron, KR**; Nutsch, K; Kline, GM; **Stanton, C**; Kelly, JW; Bollong, MJ; **Wiseman, RL** (2021) Metabolically Activated Proteostasis Regulators Protect Against Glutamate Toxicity by Activating NRF2, *ACS Chem Biol*."
   date: '2021'
   image: '/static/img/pub/2021RosardabioRXIV.png'
