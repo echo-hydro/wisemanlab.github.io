@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *bioRxiv*"
+  date: '2022'
+  image: '/static/img/pub/2022BaradbioRXIV.png'
+  pmid:
+  biorxiv: '2022.01.23.477440'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.23.477440v1.full.pdf'
+  links:
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
+
 - citation: "Yang, J^; **Song, A^**;  **Wiseman, RL**; Lander, GC (2021) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *bioRxiv*, ^co-first authors, *Co-corresponding author"
   date: '2021'
   image: '/static/img/pub/2021SongbioRXIV.png'
