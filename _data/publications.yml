@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *bioRxiv*"
+  date: '2022'
+  image: '/static/img/pub/2022ParioullaudbioRXIV.png'
+  pmid:
+  biorxiv: '2022.01.31.478213'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.31.478213v1.full.pdf'
+  links:
+    - name: Lamia Lab @ Scripps Research
+      url: https://klamia.wixsite.com/website
+
 - citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *bioRxiv*"
   date: '2022'
   image: '/static/img/pub/2022BaradbioRXIV.png'
