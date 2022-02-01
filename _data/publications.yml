@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. *Co-corresponding author."
+  date: '2022'
+  image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
+  pmid:
+  biorxiv: '2020.12.03.408716'
+  pdf: 'https://www.nature.com/articles/s41467-022-28271-2.pdf'
+  links:
+    - name: Saez lab @ Scripps Research
+      url: https://www.scripps.edu/saez/overview.html
+
 - citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *bioRxiv*"
   date: '2022'
   image: '/static/img/pub/2022ParioullaudbioRXIV.png'
@@ -129,16 +139,6 @@
   links:
     - name: Hetz lab @ University of Chile
       url: http://www.hetzlab.cl/
-
-- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2020) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *bioRxiv*. *Co-corresponding author."
-  date: '2020'
-  image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
-  pmid:
-  biorxiv: '2020.12.03.408716'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.12.03.408716v1.full.pdf'
-  links:
-    - name: Saez lab @ Scripps Research
-      url: https://www.scripps.edu/saez/overview.html
 
 - citation: "**Ibrahim, L; Mesgarzadeh, J**; Xu, I; Powers, ET; **Wiseman, RL**; Bollong, MJ (2020) Defining the Functional Targets of Cap’n’Collar Transcription Factors NRF1, NRF2, and NRF3, *Antioxidants*"
   date: '2020'
