@@ -53,12 +53,14 @@
 - citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. *Co-corresponding author."
   date: '2022'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
-  pmid:
+  pmid: '35105890'
   biorxiv: '2020.12.03.408716'
   pdf: 'https://www.nature.com/articles/s41467-022-28271-2.pdf'
   links:
     - name: Saez lab @ Scripps Research
       url: https://www.scripps.edu/saez/overview.html
+    - name: TSRI Press Release
+      url: https://www.scripps.edu/news-and-events/press-room/2022/20220201-saez-wiseman-liver.html
 
 - citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *bioRxiv*"
   date: '2022'
