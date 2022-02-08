@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Yang, J^; **Song, A^**;  **Wiseman, RL**; Lander, GC (2022) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *JBC*, ^co-first authors, *Co-corresponding author"
+  date: '2022'
+  image: '/static/img/pub/2021SongbioRXIV.png'
+  pmid:
+  biorxiv: '2021.11.24.469940'
+  pdf: 'https://www.jbc.org/action/showPdf?pii=S0021-9258%2822%2900134-X'
+  links:
+    - name: Lander Lab @ Scripps Research
+      url: http://www.lander-lab.com/
+
 - citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. *Co-corresponding author."
   date: '2022'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
@@ -81,16 +91,6 @@
   links:
     - name: Grotjahn Lab @ Scripps Research
       url: https://grotjahnlab.org/
-
-- citation: "Yang, J^; **Song, A^**;  **Wiseman, RL**; Lander, GC (2021) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *bioRxiv*, ^co-first authors, *Co-corresponding author"
-  date: '2021'
-  image: '/static/img/pub/2021SongbioRXIV.png'
-  pmid:
-  biorxiv: '2021.11.24.469940'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2021.11.24.469940v1.full.pdf'
-  links:
-    - name: Lander Lab @ Scripps Research
-      url: http://www.lander-lab.com/
 
 - citation: "**Rosarda, JD; Baron, KR**; Nutsch, K; Kline, GM; **Stanton, C**; Kelly, JW; Bollong, MJ; **Wiseman, RL** (2021) Metabolically Activated Proteostasis Regulators Protect Against Glutamate Toxicity by Activating NRF2, *ACS Chem Biol*."
   date: '2021'
