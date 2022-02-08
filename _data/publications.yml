@@ -60,7 +60,7 @@
     - name: Lander Lab @ Scripps Research
       url: http://www.lander-lab.com/
 
-- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E; **Wiseman, RL**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. *Co-corresponding author."
+- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E#; **Wiseman, RL#**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. #Co-corresponding author."
   date: '2022'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
   pmid: '35105890'
@@ -114,7 +114,7 @@
     - name: Heike Kroeger @ Georgia
       url: https://cellbio.uga.edu/directory/people/heike-kroeger
 
-- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL**; Lander, GC (2021) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nat Communications*. *Co-corresponding author."
+- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL#**; Lander, GC# (2021) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nat Communications*. #Co-corresponding author."
   date: '2021'
   image: '/static/img/pub/2020ShinhLON3.png'
   pmid: '34050165'
@@ -302,7 +302,7 @@
     - name: Murphy lab @ Boston University
       url: http://murphylaboratory.com/
 
-- citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL**; Kelly, JW (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*. co-corresponding author."
+- citation: "Paxman, RJ; **Plate, L**; Blackwood, EA; Glembotski, CC; Powers, ET; **Wiseman, RL#**; Kelly, JW# (2018) A Small Molecule that Preferentially Activates the ATF6 Pathway of the Unfolded Protein Response is Metabolically Activated to Selectively Modify Endoplasmic Reticulum Proteins, *eLIFE*. #co-corresponding author."
   date: '2018'
   image: '/static/img/pub/2018PaxmaneLIFE.jpg'
   pmid: '30084354'
@@ -379,7 +379,7 @@
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
-- citation: "**Plate, Lars; Cooley, CB; Chen, JJ**; Paxman, RJ; Gallagher, CM; Madoux, F; **Genereux, JC**; Dobbs, W; Garza, D; Spicer, TP; Scampavia, L; Brown, SJ; Rosen, H; Powers, ET; Walter, P; Hodder, P; **Wiseman, RL**; Kelly, JW (2016) Small Molecule ER Proteostasis Regulators that Reprogram the ER to Reduce Extracellular Protein Aggregation, *eLIFE*. co-corresponding author"
+- citation: "**Plate, Lars; Cooley, CB; Chen, JJ**; Paxman, RJ; Gallagher, CM; Madoux, F; **Genereux, JC**; Dobbs, W; Garza, D; Spicer, TP; Scampavia, L; Brown, SJ; Rosen, H; Powers, ET; Walter, P; Hodder, P; **Wiseman, RL#**; Kelly, JW# (2016) Small Molecule ER Proteostasis Regulators that Reprogram the ER to Reduce Extracellular Protein Aggregation, *eLIFE*. #co-corresponding author"
   date: '2016'
   image: '/static/img/pub/2016PlateELIFE.jpg'
   pmid: '27435961'
@@ -390,7 +390,7 @@
     - name: Scripps Research Institute Molecule Screening Center
       url: https://hts.florida.scripps.edu/index.html
 
-- citation: "**Plate, L; Paxman, RJ; Wiseman, RL**, Kelly JW (2016) Modulating protein quality control, *eLIFE*. co-corresponding author"
+- citation: "**Plate, L; Paxman, RJ; Wiseman, RL#**, Kelly JW# (2016) Modulating protein quality control, *eLIFE*. #co-corresponding author"
   date: '2016'
   image: '/static/img/pub/2016PlateCommentary.jpg'
   pmid: '27435959'
