@@ -50,10 +50,10 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Yang, J^; **Song, A^**;  **Wiseman, RL#**; Lander, GC# (2022) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *JBC*, ^co-first authors, #Co-corresponding author"
+- citation: "Yang, J^; **Song, A^**;  **Wiseman, RL#**; Lander, GC# (2022) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *J Biol Chem*, ^co-first authors, #Co-corresponding author"
   date: '2022'
   image: '/static/img/pub/2021SongbioRXIV.png'
-  pmid:
+  pmid: '35143841'
   biorxiv: '2021.11.24.469940'
   pdf: 'https://www.jbc.org/action/showPdf?pii=S0021-9258%2822%2900134-X'
   links:
@@ -114,7 +114,7 @@
     - name: Heike Kroeger @ Georgia
       url: https://cellbio.uga.edu/directory/people/heike-kroeger
 
-- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL#**; Lander, GC# (2021) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nat Communications*. #Co-corresponding author."
+- citation: "**Shin, M**; Watson, ER; Novick, J; Griffin, P; **Wiseman, RL#**; Lander, GC# (2021) Structures of the Human LONP1 Protease Reveal Regulatory Steps Involved in Protease Activation, *Nature Communications*. #Co-corresponding author."
   date: '2021'
   image: '/static/img/pub/2020ShinhLON3.png'
   pmid: '34050165'
