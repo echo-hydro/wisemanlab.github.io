@@ -53,12 +53,10 @@
 - citation: "**Mesgarzadeh, JS**; Buxbaum, JN; **Wiseman, RL** (2022) Stress responsive regulation fo extracellular proteostasis, *J Cell Biol*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehJCB.png'
-  pmid: ''
-  biorxiv: 
+  pmid:
+  biorxiv:
   pdf:
   links:
-    - name:
-      url:
 
 - citation: "Yang, J^; **Song, A^**;  **Wiseman, RL#**; Lander, GC# (2022) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *J Biol Chem*, ^co-first authors, #Co-corresponding author"
   date: '2022'
