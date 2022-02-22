@@ -55,7 +55,7 @@
   image: '/static/img/pub/2022MesgarzadehJCB.png'
   pmid:
   biorxiv:
-  pdf:
+  pdf: 'https://rupress.org/jcb/article-pdf/221/4/e202112104/1428922/jcb_202112104.pdf'
   links:
 
 - citation: "Yang, J^; **Song, A^**;  **Wiseman, RL#**; Lander, GC# (2022) Cryo-EM structure of hexameric yeast Lon (PIM1) highlights importance of conserved structural elements, *J Biol Chem*, ^co-first authors, #Co-corresponding author"
