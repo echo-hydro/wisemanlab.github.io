@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Perea, V**; Cole, C; **Lebeau, J; Dolina, V; Baron, KR; Madhavan, A**; Kelly, JW; Grotjahn, DG; **Wiseman, RL** (2022) PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid, *bioRxiv*"
+  date: '2022'
+  image: '/static/img/pub/2022PereabioRXIV.png'
+  pmid:
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
+
 - citation: "**Mesgarzadeh, JS**; Buxbaum, JN; **Wiseman, RL** (2022) Stress responsive regulation of extracellular proteostasis, *J Cell Biol*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehJCB.png'
