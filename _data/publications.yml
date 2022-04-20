@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Wiseman, RL; Mesgarzadeh, JS**; Hendershot, LM (2022) Reshaping endoplasmic quality control through the unfolded protein response, *Mol Cell*"
+  date: '2022'
+  image: '/static/img/pub/2022MesgarzadehMolCell.png'
+  pmid:
+  biorxiv:
+  pdf: ''
+  links:
+    - name: Hendershot Lab @ St Jude
+      url: https://www.stjude.org/research/labs/hendershot-lab.html
+
 - citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC;**Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *bioRxiv*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehbioRXIV.png'
