@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Deng, M; Cotter, E; Wang, YJ, Fu, X; Whittsette, AL; Lynch, JW; **Wiseman, RL**; Kelly, JW; Keramidas, A; Mu, TW (2022) Pharmacologic activation of ATF6 remodels the proteostasis network to rescue pathogenic GABAA receptors, *Cell & Bioscience*"
+  date: '2022'
+  image: '/static/img/pub/2022DengetalCellBioscience.png'
+  pmid: ''
+  biorxiv:
+  pdf: 'https://cellandbioscience.biomedcentral.com/track/pdf/10.1186/s13578-022-00783-w.pdf'
+  links:
+    - name: Mu Lab @ Case Western
+      url: https://sites.google.com/view/mu-lab/home
+
 - citation: "**Wiseman, RL; Mesgarzadeh, JS**; Hendershot, LM (2022) Reshaping endoplasmic quality control through the unfolded protein response, *Mol Cell*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehMolCellv2.png'
