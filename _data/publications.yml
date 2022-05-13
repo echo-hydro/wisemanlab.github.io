@@ -50,6 +50,14 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC;**Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *Cells*"
+  date: '2022'
+  image: '/static/img/pub/2022MesgarzadehbioRXIV.png'
+  pmid:
+  biorxiv: '2022.04.13.488200'
+  pdf: ''
+  links:
+
 - citation: "Deng, M; Cotter, E; Wang, YJ, Fu, X; Whittsette, AL; Lynch, JW; **Wiseman, RL**; Kelly, JW; Keramidas, A; Mu, TW (2022) Pharmacologic activation of ATF6 remodels the proteostasis network to rescue pathogenic GABAA receptors, *Cell & Bioscience*"
   date: '2022'
   image: '/static/img/pub/2022DengetalCellBioscience.png'
@@ -69,14 +77,6 @@
   links:
     - name: Hendershot Lab @ St Jude
       url: https://www.stjude.org/research/labs/hendershot-lab.html
-
-- citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC;**Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *bioRxiv*"
-  date: '2022'
-  image: '/static/img/pub/2022MesgarzadehbioRXIV.png'
-  pmid:
-  biorxiv: '2022.04.13.488200'
-  pdf: ''
-  links:
 
 - citation: "**Perea, V**; Cole, C; **Lebeau, J; Dolina, V; Baron, KR; Madhavan, A**; Kelly, JW; Grotjahn, DA; **Wiseman, RL** (2022) PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid, *bioRxiv*"
   date: '2022'
