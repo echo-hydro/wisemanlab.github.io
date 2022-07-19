@@ -31,6 +31,15 @@
   email: jiesun (at) scripps.edu
   description: "Jie Sun is a postdoctoral associate in the Wiseman and Saez labs studying on how the pharmacological activation of IRE1/XBP1s affects the pathology of nonalcoholic steatohepatitis (NASH) in multiple tissues. She obtained her PhD degree in Model Animal Research Center of Nanjing University, China. During her PhD, she studied on the physiology of smooth muscle contraction and the pathology of smooth muscle-related diseases. Using genetic modified mice, she found that a myosin light chain phosphatase (MLCP) inhibitory protein, CPI-17, is required for GPCR-induced calcium-sensitizied vascular smooth muscle contraction and genesis of obesity-related hypertension. Outside of lab, Jie enjoys hiking and reading."
 
+- name: Prerona Bora, PhD
+  image: /static/img/members/Prerona.png
+  pronouns: she/her/hers
+  position: Postdoctoral fellow
+  email: pbora (at) scripps.edu
+  description: "Prerona is a postdoctoral associate in the Wiseman lab working towards elucidating the mechanism of action of IRE1/XBP1s activators. In early 2022, she graduated with a PhD from the Indian Institute of Science Education and Research (IISER), Pune, India. During her PhD she has worked on the synthesis and evaluation of organic compounds as tools to probe the role of reactive sulphur species in conditions of oxidative stress and inflammation. She hails from the beautiful Northeastern state of Assam in India, famous for its one-horned rhinos and tea. Apart from being an avid tea drinker, she loves doing yoga, enjoys outdoor hikes and run.
+
+  Prerona is supported by a Hewitt Foundation Postdoctoral fellowship"
+
 - name: Jessica Rosarda (and Elsie)
   image: /static/img/members/JessicaElsie.jpeg
   pronouns: she/her/hers
@@ -55,7 +64,6 @@
   pronouns: she/her/hers
   email: vperea (at) scripps.edu
   description: "Valerie earned a Bachelor of Science at the University of New Mexico where she researched modified cyclodextrins as combined chemotherapy and gene therapy delivery tools in the lab of Lina Cui. During her undergrad she was a SURF intern in the lab of Katja Lamia at TSRI and investigated circadian rhythm proteins and their role in regulating the degradation of proto-onco-proteins. After her undergrad she returned to Scripps and is a graduate student in the Wiseman lab studying the effects of PERK-dependent translational attenuation on mitochondrial biology. She hopes that her work will reveal the role of PERK regulation of mitochondria in disease pathology. Outside of the lab she enjoys playing piano, writing, and spending time with friends and family.
-
 
   Val is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)."
 
