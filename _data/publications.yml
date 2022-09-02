@@ -50,6 +50,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Chaudary, V; Ah Kioon, MD; Hwang, SM; Lakin, K; Kirou, KK; Zhang-Sun, J; **Wiseman, RL**; Spiera, RF; Crow MK; Gordon, JK; Cubillos-Ruis, JR; Barrat, FJ (2022) Chronic activation of pDCs in autoimmunity is linked to dysregulated ER stress and metabolic responses, *J Exp Medicine*"
+  date: '2022'
+  image: '/static/img/pub/2022JExpMedBarratv1.png'
+  pmid:
+  biorxiv:
+  pdf: 'https://rupress.org/jem/article-pdf/219/11/e20221085/1437948/jem_20221085.pdf'
+  links:
+    - name: Barrat Lab @ HSS Research Institute
+      url: https://www.hss.edu/research-staff_barrat-franck.asp
+    - name: Cubillos-Ruiz Lab @ Weill Cornell
+      url: https://gradschool.weill.cornell.edu/faculty/juan-cubillos-ruiz
+
 - citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC;**Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *Cells*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehbioRXIV.png'
