@@ -72,7 +72,7 @@
     - name: Cubillos-Ruiz Lab @ Weill Cornell
       url: https://gradschool.weill.cornell.edu/faculty/juan-cubillos-ruiz
 
-- citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC;**Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *Cells*"
+- citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC; **Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *Cells*"
   date: '2022'
   image: '/static/img/pub/2022MesgarzadehbioRXIV.png'
   pmid: '35626697'
