@@ -72,7 +72,7 @@
     - name: Cubillos-Ruiz Lab @ Weill Cornell
       url: https://gradschool.weill.cornell.edu/faculty/juan-cubillos-ruiz
 
-- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Sneak Peek*
+- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Sneak Peek*"
   date: '2022'
   image: '/static/img/pub/2022BalchA1ATv1.png'
   pmid:
