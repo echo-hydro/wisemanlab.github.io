@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *Science Advances*"
+  date: '2022'
+  image: '/static/img/pub/2022ParioullaudbioRXIV.png'
+  pmid:
+  biorxiv: '2022.01.31.478213'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.31.478213v1.full.pdf'
+  links:
+    - name: Lamia Lab @ Scripps Research
+      url: https://klamia.wixsite.com/website
+
 - citation: "**Rosarda, JD**; Giles, S; Harkins-Perry, S; Mills, E; Friedlander, M; **Wiseman, RL**; Eade, KT (2022) Imbalanced Unfolded Protein Response Signaling Contributes to 1-Deoxysphingolipid Retinal Toxicity, *bioRXIV*"
   date: '2022'
   image: '/static/img/pub/2022RosardabioRXIVv3.png'
@@ -153,17 +163,6 @@
       url: https://www.scripps.edu/news-and-events/press-room/2022/20220201-saez-wiseman-liver.html
     - name: Taconic Press Release
       url: https://www.taconic.com/taconic-insights/inflammation/diet-induced-obese-mouse-model-enabling-breakthroughs-drug-discovery.html
-
-
-- citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *bioRxiv*"
-  date: '2022'
-  image: '/static/img/pub/2022ParioullaudbioRXIV.png'
-  pmid:
-  biorxiv: '2022.01.31.478213'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.31.478213v1.full.pdf'
-  links:
-    - name: Lamia Lab @ Scripps Research
-      url: https://klamia.wixsite.com/website
 
 - citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *bioRxiv*"
   date: '2022'
