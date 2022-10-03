@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2022) DELE1 promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
+- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2022) DELE1 oligomerization promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
   date: '2022'
   image: '/static/img/pub/2022YangDELE1bioRXIV.png'
   pmid:
