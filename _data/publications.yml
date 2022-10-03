@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2022) DELE1 promotes integrated stress response activation, *bioRXIV*"
+  date: '2022'
+  image: '/static/img/pub/2022YangDELE1bioRXIV.png'
+  pmid:
+  biorxiv: '2022.10.01.510468 '
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.10.01.510468v1.full.pdf'
+  links:
+    - name: Lander Lab @ Scripps Research
+      url: https://www.lander-lab.com/
+
 - citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *Science Advances*"
   date: '2022'
   image: '/static/img/pub/2022ParioullaudbioRXIV.png'
@@ -152,7 +162,7 @@
     - name: Lander Lab @ Scripps Research
       url: http://www.lander-lab.com/
 
-- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E#; **Wiseman, RL#**(2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. #Co-corresponding author."
+- citation: "**Madhavan, A**; Kok, BP; **Grandjean, JMD**; Albert, V; Sukiasyan, A; **Rius, B**; Powers, ET; Galmozzi, A; Saez, E#; **Wiseman, RL#** (2022) Pharmacologic IRE1/XBP1s Activation Promotes Systemic Adaptive Remodeling in Obesity, *Nature Communications*. #Co-corresponding author."
   date: '2022'
   image: '/static/img/pub/2020MadhavanbioRXIVv1.png'
   pmid: '35105890'
