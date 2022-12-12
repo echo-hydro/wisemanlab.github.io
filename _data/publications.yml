@@ -50,6 +50,19 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+
+- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Chem Biol*"
+  date: '2022'
+  image: '/static/img/pub/2022BalchA1ATv1.png'
+  pmid:
+  biorxiv:
+  pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207576'
+  links:
+    - name: Balch Lab @ Scripps Research
+      url: https://www.webalchlab.com/
+    - name: Kelly lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+
 - citation: "Lee, EJ; Diaz-Aguilar, MS; Min, H; Choi, J; Valdez Duran, DA; **Grandjean, JMD; Wiseman, RL**; Kroeger, H; Lin, JH (2022) Endoplasmic Reticulum and Mitochondrial Dysfunction in Achromatopsia Patient Retinal Organoids, *Am Journal of Pathology*"
   date: '2022'
   image: '/static/img/pub/2022LeeetalAJP.png'
@@ -105,18 +118,6 @@
       url: https://www.hss.edu/research-staff_barrat-franck.asp
     - name: Cubillos-Ruiz Lab @ Weill Cornell
       url: https://gradschool.weill.cornell.edu/faculty/juan-cubillos-ruiz
-
-- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Sneak Peek*"
-  date: '2022'
-  image: '/static/img/pub/2022BalchA1ATv1.png'
-  pmid:
-  biorxiv:
-  pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207576'
-  links:
-    - name: Balch Lab @ Scripps Research
-      url: https://www.webalchlab.com/
-    - name: Kelly lab @ Scripps Research
-      url: https://www.scripps.edu/kelly/
 
 - citation: "**Mesgarzadeh, JS; Romine, IC; Smith-Cohen, EM; Grandjean, JMD**; Kelly, JW; Genereux, JC; **Wiseman, RL** (2022) ATF6 activation reduces amyloidogenic transthyretin secretion through increased interactions with endoplasmic reticulum proteostasis factors, *Cells*"
   date: '2022'
