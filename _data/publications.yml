@@ -50,6 +50,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Lee, EJ; Diaz-Aguilar, MS; Min, H; Choi, J; Valdez Duran, DA; **Grandjean, JMD; Wiseman, RL**; Kroeger, H; Lin, JH (2022) Endoplasmic Reticulum and Mitochondrial Dysfunction in Achromatopsia Patient Retinal Organoids, *Am Journal of Pathology*"
+  date: '2022'
+  image: '/static/img/pub/2022LeeetalAJP.png'
+  pmid:
+  biorxiv:
+  pdf: ''
+  links:
+    - name: Lin Lab @ Stanford
+      url: https://profiles.stanford.edu/216141?tab=bio
+    - name: Heike Kroeger @ UGA
+      url: https://cellbio.uga.edu/directory/people/heike-kroeger
+
 - citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2022) DELE1 oligomerization promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
   date: '2022'
   image: '/static/img/pub/2022YangDELE1bioRXIV.png'
