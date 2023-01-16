@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "Kline, GM; Paxman, RJ; Lin, CY; **Madrazo, N**; **Grandjean, JM**; Lee, K; Nugroho, K; Powers, ET; **Wiseman, RL**#; Kelly, JW# (2023) Divergent proteome reactivity influences arm-selective activation of pharmacologic endoplasmic reticulum proteostsasis regulators, *bioRXIV*. #Co-corresponding authors."
+  date: '2023'
+  image: '/static/img/pub/2023KlinebioRXIV.png'
+  pmid:
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Kelly lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+
 - citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Chem Biol*"
   date: '2022'
   image: '/static/img/pub/2022BalchA1ATv1.png'
