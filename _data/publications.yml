@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *J Cell Biol*"
+- citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2023) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *J Cell Biol*"
   date: '2022'
   image: '/static/img/pub/2022BaradbioRXIV.png'
   pmid:
