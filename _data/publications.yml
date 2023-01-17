@@ -50,6 +50,15 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *J Cell Biol*"
+  date: '2022'
+  image: '/static/img/pub/2022BaradbioRXIV.png'
+  pmid:
+  biorxiv: '2022.01.23.477440'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.23.477440v1.full.pdf'
+  links:
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
 
 - citation: "Kline, GM; Paxman, RJ; Lin, CY; **Madrazo, N**; **Grandjean, JM**; Lee, K; Nugroho, K; Powers, ET; **Wiseman, RL**#; Kelly, JW# (2023) Divergent proteome reactivity influences arm-selective activation of pharmacologic endoplasmic reticulum proteostsasis regulators, *bioRXIV*. #Co-corresponding authors."
   date: '2023'
@@ -200,16 +209,6 @@
       url: https://www.scripps.edu/news-and-events/press-room/2022/20220201-saez-wiseman-liver.html
     - name: Taconic Press Release
       url: https://www.taconic.com/taconic-insights/inflammation/diet-induced-obese-mouse-model-enabling-breakthroughs-drug-discovery.html
-
-- citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2022) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *bioRxiv*"
-  date: '2022'
-  image: '/static/img/pub/2022BaradbioRXIV.png'
-  pmid:
-  biorxiv: '2022.01.23.477440'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2022.01.23.477440v1.full.pdf'
-  links:
-    - name: Grotjahn Lab @ Scripps Research
-      url: https://grotjahnlab.org/
 
 - citation: "**Rosarda, JD; Baron, KR**; Nutsch, K; Kline, GM; **Stanton, C**; Kelly, JW; Bollong, MJ; **Wiseman, RL** (2021) Metabolically Activated Proteostasis Regulators Protect Against Glutamate Toxicity by Activating NRF2, *ACS Chem Biol*."
   date: '2021'
