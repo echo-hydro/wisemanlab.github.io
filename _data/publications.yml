@@ -70,8 +70,8 @@
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
-- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2022) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Chem Biol*"
-  date: '2022'
+- citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2023) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Chem Biol*"
+  date: '2023'
   image: '/static/img/pub/2022BalchA1ATv1.png'
   pmid: '36630963'
   biorxiv:
