@@ -109,7 +109,11 @@
 - name: Chavin Buasakdi
   image: /static/img/members/Chavin2.jpeg
   pronouns: he/him/his
+<<<<<<< HEAD
   position: Graduate Student
+=======
+  position: Graduate Student (with Danielle Grotjahn)
+>>>>>>> b85f715f5d48d06ffd330ca061d447be68038175
   email: cbuasakdi (at) scripps.edu
   description: "Chavin is a graduate student in the Wiseman lab working to identify which pharmacologic activator of unfolded protein response protects against neurodegenerative diseases such as neuropathy and Alzheimer's. Chavin graduated from the University of Wisconsin-Madison with a bachelor's degree in chemistry and biology and a master's degree in bacteriology. His research experience at Madison involved the metabolomic and lipidomic studies of bacterial biofilm during its formation and bacteriophage infection in the lab of Daniel Amador-Noguez. Outside of the lab, Chavin enjoys a variety of activities outdoors and indoors- photography, hiking, ice skating, skiing, cooking, playing games, and playing electric guitar.
 
