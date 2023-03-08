@@ -70,6 +70,18 @@
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
+- citation: "Jo, J; Kim, J; **Ibrahim, L**; Kumar, M; Iaconelli, J; So Tran, C; Moon, HR; Jung, Y; **Wiseman, RL**; Lairson, LL; Schultz, PG; Chatterjee, AK; Bollong, M; Yun, H (2023) Optimization of 3-aminotetrahydrothiophene 1,1-dioxides with improved potency and efficacy as non-electrophilic antioxidant response elements (ARE) activators"
+  date: '2023'
+  image: '/static/img/pub/2023JoNRF2.png'
+  pmid:
+  biorxiv:
+  pdf: 'https://deliverypdf.ssrn.com/delivery.php?ID=847004104083009075001100005087121126023092036006058054127033029010028103028083124019023006064096116055112093003007025051081122096006016029011072051080052053099091060084116097074036099005013012005011068016067027069068126075100085070106077070091016116071088108004085116091091094025101078&EXT=pdf&INDEX=TRUE'
+  links:
+    - name: Yun lab @ Pusan
+      url: https://hyun.pusan.ac.kr/hyun/39301/subview.do
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Sun, S; Wang, C; Zhao, P; Kline, G; **Grandjean, JMD**; Jiang, Xin; Laubaudiniere, R; **Wiseman, RL**; Kelly, JW; Balch, WE (2023) Gaussian Process Captures the Conversion of the Pathogenic Alpha-1-Antitrypsin Fold by ATF6 Enhanced Proteostasis, *Cell Chem Biol*"
   date: '2022'
   image: '/static/img/pub/2022BalchA1ATv1.png'
@@ -269,7 +281,7 @@
   biorxiv:
   pdf: 'https://www.mdpi.com/2076-3921/9/10/1025/htm'
   links:
-    - name: Bollong Lab @ Scripps
+    - name: Bollong Lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
 
 - citation: "**Grandjean, JMD; Wiseman, RL** (2020) Small molecule strategies to harness the unfolded protein response: where do we go from here?, *J Biol Chem*"
