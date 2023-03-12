@@ -54,8 +54,8 @@
   date: '2023'
   image: '/static/img/pub/2023PereaBaronbioRXIV.png'
   pmid:
-  biorxiv:
-  pdf:
+  biorxiv: '2023.03.11.532186'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.03.11.532186v1.full.pdf'
   links:
     - name: Kampmann Lab @ UCSF
       url: https://kampmannlab.ucsf.edu/
