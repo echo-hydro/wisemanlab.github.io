@@ -80,7 +80,7 @@
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
-- citation: "Jo, J; Kim, J; **Ibrahim, L**; Kumar, M; Iaconelli, J; So Tran, C; Moon, HR; Jung, Y; **Wiseman, RL**; Lairson, LL; Schultz, PG; Chatterjee, AK; Bollong, M; Yun, H (2023) Optimization of 3-aminotetrahydrothiophene 1,1-dioxides with improved potency and efficacy as non-electrophilic antioxidant response elements (ARE) activators"
+- citation: "Jo, J; Kim, J; **Ibrahim, L**; Kumar, M; Iaconelli, J; So Tran, C; Moon, HR; Jung, Y; **Wiseman, RL**; Lairson, LL; Schultz, PG; Chatterjee, AK; Bollong, M; Yun, H (2023) Optimization of 3-aminotetrahydrothiophene 1,1-dioxides with improved potency and efficacy as non-electrophilic antioxidant response elements (ARE) activators, *Bioorg Med Chem Lett*"
   date: '2023'
   image: '/static/img/pub/2023JoNRF2.png'
   pmid:
