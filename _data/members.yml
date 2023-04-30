@@ -50,23 +50,7 @@
   description: "Jessica is a former graduate student and current postdoc in the Wiseman lab studying the mechanisms by which pharmacologic modulators of ATF6 protect against ischemia / reperfusion injury. Her initial studies focused on neuroprotective mechanisms and she is currently looking at the role of ATF6 in inflammatory signaling. She earned a Bachelor of Science degree from Washington and Lee University, where she studied the population dynamics of Virginia sneezeweed as well as brook trout using genetic markers. She also holds a Master of Science degree in Pharmacy from the University of Florida, which she earned while identifying missing US service members as a forensic DNA analyst at the Armed Forces DNA Identification Laboratory. She later served as the Sequencing Project Coordinator at the National Institutes of Health Sequencing Center. In addition to her graduate studies at Scripps Research, she actively participates in outreach and philanthropy events and brings her dog Elsie to lab most days. Outside of the lab she enjoys boxing and gardening.
 
 
-  Jessica is supported by an ARCS foundation fellowship"
-
-- name: Jaleh Mesgarzadeh
-  image: /static/img/members/Jaleh.jpeg
-  position: Graduate Student
-  pronouns: she/her/hers
-  email: jmesgarz (at) scripps.edu
-  description: "Jaleh is a Scripps graduate student in the Wiseman lab studying how LECT2 amyloidosis affects the hepatic proteostasis environment. She is also responsible for performing the mass spectrometry experiments for the Wiseman Lab. Initially during her rotation, she worked with Bibiana Rius Ph.D. to study the mechanism of how pharmacologic activators of ATF6 reduce secretion of amyloidogenic light-chain in light-chain (AL) amyloidosis. She earned her bachelor’s degree in Human Biology from the University of California, San Diego. During her undergraduate studies she worked under Supriya Srinivasan Ph.D. at Scripps Research to help study the underlying neuronal mechanisms by which C. elegans regulate peripheral lipid metabolism. After graduating from UCSD, Jaleh joined the lab of Jeffery Kelly Ph.D. at Scripps Research to help define disease biomarkers for Transthyretin-related familial amyloid polyneuropathy patients from Portugal. Outside of lab, Jaleh enjoys rock climbing and playing video games."
-
-- name: Val Perea
-  image: /static/img/members/Val3.jpg
-  position: Graduate Student
-  pronouns: she/her/hers
-  email: vperea (at) scripps.edu
-  description: "Valerie earned a Bachelor of Science at the University of New Mexico where she researched modified cyclodextrins as combined chemotherapy and gene therapy delivery tools in the lab of Lina Cui. During her undergrad she was a SURF intern in the lab of Katja Lamia at TSRI and investigated circadian rhythm proteins and their role in regulating the degradation of proto-onco-proteins. After her undergrad she returned to Scripps and is a graduate student in the Wiseman lab studying the effects of PERK-dependent translational attenuation on mitochondrial biology. She hopes that her work will reveal the role of PERK regulation of mitochondria in disease pathology. Outside of the lab she enjoys playing piano, writing, and spending time with friends and family.
-
-  Val is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)."
+  Jessica was supported by an ARCS foundation fellowship"
 
 - name: Lara Ibrahim
   image: /static/img/members/Lara2.jpg
