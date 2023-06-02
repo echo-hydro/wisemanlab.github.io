@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "**Stanton, C; Sun, J**; Nutsch, K; Rosarda, JD; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**^, Bollong, MJ^ (2023) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *bioRXIV* ^Co-corresponding authors."
+- citation: "**Stanton, C; Sun, J**; Nutsch, K; **Rosarda, JD**; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**^, Bollong, MJ^ (2023) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *bioRXIV* ^Co-corresponding authors."
   date: '2023'
   image: '/static/img/pub/2023StantonbioRXIV.png'
   pmid:
