@@ -60,6 +60,16 @@
     - name: Lowy Medical Research Institute
       url: https://www.lmri.net/
 
+- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2023) DELE1 oligomerization promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
+  date: '2023'
+  image: '/static/img/pub/2022YangDELE1bioRXIV.png'
+  pmid:
+  biorxiv: '2022.10.01.510468 '
+  pdf: 'https://www.biorxiv.org/content/10.1101/2022.10.01.510468v1.full.pdf'
+  links:
+    - name: Lander Lab @ Scripps Research
+      url: https://www.lander-lab.com/
+
 - citation: "**Perea, V**; Cole, C; **Lebeau, J; Dolina, V; Baron, KR; Madhavan, A**; Kelly, JW; Grotjahn, DA; **Wiseman, RL** (2023) PERK signaling promotes mitochondrial elongation by remodeling membrane phosphatidic acid, *EMBO J*"
   date: '2023'
   image: '/static/img/pub/2022PereabioRXIV.png'
@@ -169,16 +179,6 @@
       url: https://profiles.stanford.edu/216141?tab=bio
     - name: Heike Kroeger's lab @ UGA
       url: https://cellbio.uga.edu/directory/people/heike-kroeger
-
-- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2022) DELE1 oligomerization promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
-  date: '2022'
-  image: '/static/img/pub/2022YangDELE1bioRXIV.png'
-  pmid:
-  biorxiv: '2022.10.01.510468 '
-  pdf: 'https://www.biorxiv.org/content/10.1101/2022.10.01.510468v1.full.pdf'
-  links:
-    - name: Lander Lab @ Scripps Research
-      url: https://www.lander-lab.com/
 
 - citation: "Pariollaud, M; **Ibrahim, LH**; Irizarry, E; Mello, RM; Chan, AB; Altman, BJ; Shaw, RJ; Bollong, MJ; **Wiseman, RL**, Lamia, KA (2022) Circadian disruption enhances HSF1 signaling and tumorigenesis in Kras-driven lung cancer, *Science Advances*"
   date: '2022'
