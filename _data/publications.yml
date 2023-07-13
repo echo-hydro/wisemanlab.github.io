@@ -50,12 +50,12 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "**Rosarda, JD**; Giles, S; Harkins-Perry, S; Mills, E; Friedlander, M; **Wiseman, RL**; Eade, KT (2023) Imbalanced Unfolded Protein Response Signaling Contributes to 1-Deoxysphingolipid Retinal Toxicity, *bioRXIV*"
+- citation: "**Rosarda, JD**; Giles, S; Harkins-Perry, S; Mills, E; Friedlander, M; **Wiseman, RL**; Eade, KT (2023) Imbalanced Unfolded Protein Response Signaling Contributes to 1-Deoxysphingolipid Retinal Toxicity, *Nature Communications*"
   date: '2023'
   image: '/static/img/pub/2022RosardabioRXIVv3.png'
-  pmid:
+  pmid: '37433773'
   biorxiv: '2022.09.22.509071'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2022.09.22.509071v1.full.pdf'
+  pdf: 'https://www.nature.com/articles/s41467-023-39775-w'
   links:
     - name: Lowy Medical Research Institute
       url: https://www.lmri.net/
