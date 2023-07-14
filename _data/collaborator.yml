@@ -19,20 +19,17 @@
 - name: Balch lab @ Scripps Research
   url: https://www.scripps.edu/balch/
 
-- name: Molecular Screening Center @ Scripps Research-FL
-  url: https://hts.florida.scripps.edu/
+- name: Molecular Screening Center @ UF-Scripps
+  url: https://hts.scripps.ufl.edu/
 
-- name: Glembotski lab @ SDSU
-  url: http://www.bio.sdsu.edu/Pub/glembotski/
+- name: Glembotski lab @ Arizona
+  url: https://www.glembotskilab.org/
 
-- name: Lin lab @ UCSD
-  url: https://medschool.ucsd.edu/som/pathology/research/labs/lin/Pages/default.aspx
+- name: Lin lab @ Stanford
+  url: https://med.stanford.edu/profiles/216141
 
 - name: Murphy lab @ Boston University
   url: http://murphylaboratory.com/
 
 - name: Haynes lab @ UMass Med School
   url: https://www.umassmed.edu/mccb/hayneslab/
-
-- name: Gestwicki lab @ UCSF
-  url: https://gestwickilab.ucsf.edu/
