@@ -130,7 +130,7 @@
     - name: Grotjahn Lab @ Scripps Research
       url: https://grotjahnlab.org/
 
-- citation: "Kline, GM; Paxman, RJ; Lin, CY; **Madrazo, N**; **Grandjean, JM**; Lee, K; Nugroho, K; Powers, ET; **Wiseman, RL**#; Kelly, JW# (2023) Divergent proteome reactivity influences arm-selective activation of pharmacologic endoplasmic reticulum proteostsasis regulators, *bioRXIV*. #Co-corresponding authors."
+- citation: "Kline, GM; Paxman, RJ; Lin, CY; **Madrazo, N**; **Grandjean, JM**; Lee, K; Nugroho, K; Powers, ET; **Wiseman, RL**#; Kelly, JW# (2023) Divergent proteome reactivity influences arm-selective activation of pharmacologic endoplasmic reticulum proteostsasis regulators, *ACS Chemical Biology*. #Co-corresponding authors."
   date: '2023'
   image: '/static/img/pub/2023KlinebioRXIV.png'
   pmid: '36712115'
