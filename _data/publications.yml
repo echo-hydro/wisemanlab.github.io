@@ -60,7 +60,7 @@
     - name: Lowy Medical Research Institute
       url: https://www.lmri.net/
 
-- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2023) DELE1 oligomerization promotes integrated stress response activation, *bioRXIV*, #Co-corresponding author"
+- citation: "Yang, J; **Baron, KR**, Pride, DE; Schneemann, A; Guo, X; Chen, W; Song, AS; Aviles, G; Kampmann, M; **Wiseman, RL**#; Lander, GC# (2023) DELE1 oligomerization promotes integrated stress response activation, *Nat Struct Mol Biol*, #Co-corresponding author"
   date: '2023'
   image: '/static/img/pub/2022YangDELE1bioRXIV.png'
   pmid:
@@ -133,9 +133,9 @@
 - citation: "Kline, GM; Paxman, RJ; Lin, CY; **Madrazo, N**; **Grandjean, JM**; Lee, K; Nugroho, K; Powers, ET; **Wiseman, RL**#; Kelly, JW# (2023) Divergent proteome reactivity influences arm-selective activation of pharmacologic endoplasmic reticulum proteostsasis regulators, *ACS Chemical Biology*. #Co-corresponding authors."
   date: '2023'
   image: '/static/img/pub/2023KlinebioRXIV.png'
-  pmid: '36712115'
+  pmid: '37523656'
   biorxiv: '2023.01.16.524237'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.01.16.524237v1.full.pdf'
+  pdf: 'https://pubs.acs.org/doi/epdf/10.1021/acschembio.3c00042'
   links:
     - name: Kelly lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
