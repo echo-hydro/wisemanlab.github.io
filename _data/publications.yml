@@ -64,8 +64,8 @@
   date: '2023'
   image: '/static/img/pub/2023RosardaPDIA1NLRP3.png'
   pmid:
-  biorxiv: ''
-  pdf: ''
+  biorxiv: '2023.08.21.554183 '
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.08.21.554183v1.full.pdf'
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
