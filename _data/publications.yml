@@ -50,6 +50,26 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Ibrahim, L; Stanton, C**; Nutsch, K; Nguyen, T; Li-Ma, C; Ko, Y; Lander, GC; **Wiseman, RL**#; Bollong, MJ# (2023) Succinylation of a KEAP1 Sensor Lysine Promotes NRF2 Activation, *Cell Chem Biol*. #Co-corresponding authors."
+  date: '2023'
+  image: '/static/img/pub/2023IbrahimbioRXIV.png'
+  pmid: '37215033'
+  biorxiv: '2023.05.08.539908'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.05.08.539908v1.full.pdf'
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
+- citation: "**Rosarda, JD**; **Stanton, CR**; **Chen, EB**; Bollong, MJ; **Wiseman, RL** (2023) Pharmacologic Targeting of PDIA1 Inhibits NLRP3 Inflammasome Assembly and Activation, *bioRXIV*"
+  date: '2023'
+  image: '/static/img/pub/2023RosardaPDIA1NLRP3.png'
+  pmid:
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "**Rosarda, JD**; Giles, S; Harkins-Perry, S; Mills, E; Friedlander, M; **Wiseman, RL**; Eade, KT (2023) Imbalanced Unfolded Protein Response Signaling Contributes to 1-Deoxysphingolipid Retinal Toxicity, *Nature Communications*"
   date: '2023'
   image: '/static/img/pub/2022RosardabioRXIVv3.png'
@@ -86,16 +106,6 @@
   pmid: '37398499'
   biorxiv: '2023.06.01.543248'
   pdf: 'https://www.biorxiv.org/content/10.1101/2023.06.01.543248v1.full.pdf'
-  links:
-    - name: Bollong lab @ Scripps Research
-      url: https://www.bollong.scripps.edu/
-
-- citation: "**Ibrahim, L; Stanton, C**; Nutsch, K; Nguyen, T; Li-Ma, C; Ko, Y; Lander, GC; **Wiseman, RL**#; Bollong, MJ# (2023) Succinylation of a KEAP1 Sensor Lysine Promotes NRF2 Activation, *bioRXIV*. #Co-corresponding authors."
-  date: '2023'
-  image: '/static/img/pub/2023IbrahimbioRXIV.png'
-  pmid: '37215033'
-  biorxiv: '2023.05.08.539908'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.05.08.539908v1.full.pdf'
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
